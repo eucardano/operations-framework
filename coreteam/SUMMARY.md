@@ -1,0 +1,67 @@
+# Table of contents
+
+* [🔗 Important Links](README.md)
+* [📦 Managing Changes](managing-changes.md)
+* [💰 Receiving Cardano Wallets](receiving-cardano-wallets.md)
+* [🧑🤝🧑 MultiSig for ECC Operation](multisig-for-ecc-operation.md)
+* [⏲ Regular Meetings](regular-meetings/README.md)
+  * [❄ Alignment on Jan 2nd and Jan 4th 2024](regular-meetings/alignment-on-jan-2nd-and-jan-4th-2024.md)
+  * [🗃 Archive](regular-meetings/archive/README.md)
+    * [November 9th 2023](regular-meetings/archive/november-9th-2023.md)
+    * [November 3rd](regular-meetings/archive/november-3rd.md)
+    * [First Meeting - Sep. 22nd 2023](regular-meetings/archive/first-meeting-sep.-22nd-2023.md)
+    * [Alignment Oct. 5th 2023](regular-meetings/archive/alignment-oct.-5th-2023.md)
+    * [Alignment on Thu Oct 19th 2023](regular-meetings/archive/alignment-on-thu-oct-19th-2023.md)
+    * [Nov 13th 2023](regular-meetings/archive/nov-13th-2023.md)
+    * [Alignment on Oct 26th 2023](regular-meetings/archive/alignment-on-oct-26th-2023.md)
+    * [❄ Alignment - Dec. 21st 2023](regular-meetings/archive/alignment-dec.-21st-2023.md)
+  * [💡 Ideas - Parking Lot](regular-meetings/ideas-parking-lot.md)
+* [📏 Internal Rules](internal-rules/README.md)
+  * [👕 Merchandise - General Rules](internal-rules/merchandise-general-rules.md)
+  * [🏛 Social Media Guidelines](internal-rules/social-media-guidelines/README.md)
+    * [✖ X Spaces](internal-rules/social-media-guidelines/x-spaces.md)
+  * [Team Structure](internal-rules/team-structure/README.md)
+    * [Onboarding New Team Members](internal-rules/team-structure/onboarding-new-team-members.md)
+* [Cardano Catalyst Fund](cardano-catalyst-fund/README.md)
+  * [🔟 Fund 10](cardano-catalyst-fund/fund-10/README.md)
+    * [⌛ Statement of Milestones](cardano-catalyst-fund/fund-10/statement-of-milestones.md)
+    * [⌛ Cost, Timeline and Deliverables](cardano-catalyst-fund/fund-10/cost-timeline-and-deliverables.md)
+    * [1 First Month of Operation - Oct 2023](cardano-catalyst-fund/fund-10/first-month-of-operation-oct-2023.md)
+    * [👕 Fund 10 - Merch-Strategy - Proposal #1 - Milestone 1 (Oct - Nov 2023)](cardano-catalyst-fund/fund-10/fund-10-merch-strategy-proposal-1-milestone-1-oct-nov-2023.md)
+    * [📃 Monthly Report - October 2023](cardano-catalyst-fund/fund-10/monthly-report-october-2023.md)
+    * [🛫 Monthly Report - November 2023](cardano-catalyst-fund/fund-10/monthly-report-november-2023.md)
+    * [🛫 Monthly Report - December 2023](cardano-catalyst-fund/fund-10/monthly-report-december-2023.md)
+  * [🍐 Fund 11](cardano-catalyst-fund/fund-11.md)
+* [Payments / Reimbursements](payments-reimbursements/README.md)
+  * [🌐 Oct 2023](payments-reimbursements/oct-2023/README.md)
+    * [🌐 Merch Oct 2023](payments-reimbursements/oct-2023/merch-oct-2023.md)
+    * [🦄 Team Compensation Oct 2023](payments-reimbursements/oct-2023/team-compensation-oct-2023.md)
+  * [☃ Nov 2023](payments-reimbursements/nov-2023/README.md)
+    * [X and Zoom Accounts](payments-reimbursements/nov-2023/x-and-zoom-accounts.md)
+    * [X Spaces](payments-reimbursements/nov-2023/x-spaces.md)
+    * [🦄 Team Compensation Nov 2023](payments-reimbursements/nov-2023/team-compensation-nov-2023/README.md)
+      * [🦄 Coverage of remaining tasks](payments-reimbursements/nov-2023/team-compensation-nov-2023/coverage-of-remaining-tasks.md)
+  * [☃ Dec 2023](payments-reimbursements/dec-2023/README.md)
+    * [X Spaces](payments-reimbursements/dec-2023/x-spaces.md)
+    * [🦄 Team Compensation Dec 2023](payments-reimbursements/dec-2023/team-compensation-dec-2023/README.md)
+      * [🦄 Coverage of remaining tasks](payments-reimbursements/dec-2023/team-compensation-dec-2023/coverage-of-remaining-tasks.md)
+* [✖ X-Posts - Alignment Page](x-posts-alignment-page.md)
+* [Awareness Campaigns](awareness-campaigns/README.md)
+  * [Delegation Rotation](awareness-campaigns/delegation-rotation/README.md)
+    * [Delegation Pools](awareness-campaigns/delegation-rotation/delegation-pools/README.md)
+      * [Delegations from MultiSignature](awareness-campaigns/delegation-rotation/delegation-pools/delegations-from-multisignature/README.md)
+        * [BIRTH](awareness-campaigns/delegation-rotation/delegation-pools/delegations-from-multisignature/birth.md)
+  * [Raffles](awareness-campaigns/raffles/README.md)
+    * [During the Year](awareness-campaigns/raffles/during-the-year.md)
+    * [Christmas Calendar Short Pitch Contest](awareness-campaigns/raffles/christmas-calendar-short-pitch-contest/README.md)
+      * [Winners](awareness-campaigns/raffles/christmas-calendar-short-pitch-contest/winners.md)
+
+## Group 1
+
+## Group 2
+
+## Group 3
+
+## Group 4
+
+## Group 5
