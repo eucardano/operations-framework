@@ -1,4 +1,4 @@
-# operations-framework
+# Community Operations & Frameworks
 
 
 This Repository is our contribution to the Cardano Ecosystem and beyond.
