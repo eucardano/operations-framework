@@ -18,3 +18,11 @@ We are building non-intrusive transparency frameworks for communities in public.
 The European Cardano Community received funds for its operation during Cardano Catalyst Fund 10.
 Thus we are documenting our workload and milestones here.
 
+### Fireside chat / EU Town Hall slides
+We host regular Fireside Chats / Town Halls every second Thursday. While we record those events and
+publish the videos on YouTube, we will also add a copy of the slides we prepared for the presentation
+here for you to look over and as a quick reference.
+
+### Software or scripts
+We may write simple scripts to automate many tasks. In case those may be useful to somebody else, we
+will add them in our public repositories.
