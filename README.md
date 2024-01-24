@@ -24,5 +24,23 @@ publish the videos on YouTube, we will also add a copy of the slides we prepared
 here for you to look over and as a quick reference.
 
 ### Software or scripts
-We may write simple scripts to automate many tasks. In case those may be useful to somebody else, we
+We may write simple scripts to automate tasks. In case those may be useful to somebody else, we
 will add them in our public repositories.
+
+## How this all started?
+Several regional communities were operating in the Cardano Ecosystem in 2022. However, a community focussing on European specific aspects (e.g. regulatory framework, localization for European languagues) was not in place.
+
+In alignment with the Catalyst Swarm project, and with support from the LATAM Cardano Community, the EU Cardano Discord Channel was created on July 7th 2022.
+
+Follow this link to access the very first post.
+https://discord.com/channels/994521479016357898/994541652880404501/994542234299019274
+
+A twitter (now X) account followed and step by step, the EU Cardano Community started taking shape.
+
+## Our purpose
+
+In the spirit of the broader Cardano Ecosystem, we started onboarding team members who identify themselves both with the Cardano vision, and with the European region. As the EU Cardano Community, we are apolitical and our goal is to connect people. Not only people living in Europe, but anyone interested in connecting with the region, and expanding the Cardano values all over the world.
+
+The exchange of ideas, vision and project with all other regional communities (aka Town Halls) is part of our purpose.
+
+
