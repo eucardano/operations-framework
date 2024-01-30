@@ -31,6 +31,7 @@
     * [📃 Monthly Report - October 2023](cardano-catalyst-fund/fund-10/monthly-report-october-2023.md)
     * [🛫 Monthly Report - November 2023](cardano-catalyst-fund/fund-10/monthly-report-november-2023.md)
     * [🛫 Monthly Report - December 2023](cardano-catalyst-fund/fund-10/monthly-report-december-2023.md)
+    * [🛫 Monthly Report - January 2024](cardano-catalyst-fund/fund-10/monthly-report-january-2024.md)
   * [🍐 Fund 11](cardano-catalyst-fund/fund-11.md)
 * [Payments / Reimbursements](payments-reimbursements/README.md)
   * [🌐 Oct 2023](payments-reimbursements/oct-2023/README.md)
