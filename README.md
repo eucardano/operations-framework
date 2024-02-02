@@ -4,12 +4,13 @@
 This Repository is our contribution to the Cardano Ecosystem and beyond.
 Please contribute, share, and expand on what you see. 
 
-
 ## What to expect here
 
 ### Planning and Execution in Public
 This is a community contribution to blockchain-driven communities.
 We're operating in the public and share our expertise in Business Operations with the wider public.
+You can also join our GitBook which is more focusing on the concept work.
+We are proud to be supported with as Opensource project by the [GitBook Team](https://gitbook.io). ❤️
 
 ### Blueprints
 We are building non-intrusive transparency frameworks for communities in public.
