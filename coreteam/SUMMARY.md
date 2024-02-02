@@ -46,6 +46,8 @@
     * [X Spaces](payments-reimbursements/dec-2023/x-spaces.md)
     * [🦄 Team Compensation Dec 2023](payments-reimbursements/dec-2023/team-compensation-dec-2023/README.md)
       * [🦄 Coverage of remaining tasks](payments-reimbursements/dec-2023/team-compensation-dec-2023/coverage-of-remaining-tasks.md)
+* [Jan 2024](jan-2024/README.md)
+  * [🦄 Team Compensation Jan 2024](jan-2024/team-compensation-jan-2024.md)
 * [✖ X-Posts - Alignment Page](x-posts-alignment-page.md)
 * [Awareness Campaigns](awareness-campaigns/README.md)
   * [Delegation Rotation](awareness-campaigns/delegation-rotation/README.md)
