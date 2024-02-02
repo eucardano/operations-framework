@@ -4,7 +4,7 @@ description: Overview of actual points in this month.
 
 # 🦄 Team Compensation Jan 2024
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-02-02 at 12.10.00.png" alt=""><figcaption><p>Dec 2023 - actual values for compensation</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-02-02 at 12.10.00.png" alt=""><figcaption><p>Dec 2023 - actual values for compensation</p></figcaption></figure>
 
 | Member          | Address                                                                                                 | Amount in ADA |
 | --------------- | ------------------------------------------------------------------------------------------------------- | :-----------: |
