@@ -75,7 +75,7 @@ Subsequent planning and execution is not in scope, since the idea is, that any m
 
 * **Customer** of this initiative is the broader **#CardanoCommunity**
 * **Advocates/Supporters** are&#x20;
-  * Regional Cardano Communities (aka Town Halls)
+  * Regional Cardano Communities (aka [Town Halls](https://docs.google.com/presentation/d/1gXVjF0P7AVB8b2lypQzdx4r21UKDAPQvPX655RIir0c/edit#slide=id.g2a7b93dd413_0_49))
     * African Cardano Community (ACC) - <mark style="color:green;">**confirmed by Daniel and Richmond**</mark>
     * Eastern Cardano Community (EACC) - <mark style="color:green;">**confirmed by**</mark> [Yan](https://app.gitbook.com/u/dZ2BZadYBSOCaIehf5rhLdJvwp33 "mention")
     * European Cardano Community (ECC) - <mark style="color:green;">**confirmed**</mark>
