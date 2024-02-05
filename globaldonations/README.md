@@ -4,9 +4,9 @@ description: >-
   organizations globally.
 ---
 
-# 💟 #Backup-CardanoGives - A Global Donations Campaign - A Framework
+# 💟 #CardanoGives - A Global Donations Campaign - A Framework (will be replaced with migration files)
 
-<details>
+<details> 
 
 <summary>Contributors</summary>
 
