@@ -4,7 +4,7 @@ description: >-
   organizations globally.
 ---
 
-# 💟 #CardanoGives - A Global Donations Campaign - A Framework
+# 💟 #Backup-CardanoGives - A Global Donations Campaign - A Framework
 
 <details>
 
@@ -12,13 +12,13 @@ description: >-
 
 The following individuals have access to this document and are contributing to make this framework possible.
 
-* [Ricardo Burgos](https://app.gitbook.com/u/zMDs1ZDkDHcRlHqHTAAnCOrjK1A3 "mention") - initiator of the European Cardano Community in Germany
+* [Ricardo Burgos](https://app.gitbook.com/u/zMDs1ZDkDHcRlHqHTAAnCOrjK1A3 "mention") - Campaign lead & initiator of the European Cardano Community in Germany
 * [Marcus M. Ubani](https://app.gitbook.com/u/593bc488d5e2160011d207e3 "mention") - \[BIRTH] stakepool operator and admin member of the European Cardano Community Admin Team in Germany
 * [Alejandro Pestchanker](https://app.gitbook.com/u/jeZ1W6PLoRTsptvNWG4tcbKNsdL2 "mention") - core team member LATAM Cardano Community based in Argentina
 * [Denicio MacKenzie Bute](https://app.gitbook.com/u/o1lZQPh5B9htEu9qZn6mZWHAc7e2 "mention")  - Community Manager at Cardano Foundation / Stake Pool Operator & Philanthropist, based in The Netherlands
 * [Pierre Kaklamanos](https://app.gitbook.com/u/StBnJAiLZrTXVrGAuGKQEukNDqB2 "mention") - Partnerships Manager at the Cardano Foundation, Geneva, Switzerland
 * [Peter Bui](https://app.gitbook.com/u/jMJvTCqvFsVnxmnRFVjWudoFO8l1 "mention") @astroboysoup  in X - from the Learn Cardano Podcast in Australia
-* [adam](https://app.gitbook.com/u/McIeIjuKVLfaCmrdK5juzlZwmn53 "mention")@adamKdean - Just a guy experimenting with blockchain technology and how it can be used. Co-Founder: Buffy Bot, NFTxLV, DripDropz, and others. [#BuildingOnCardano](https://twitter.com/search?q=%23BuildingOnCardano\&src=hashtag\_click) [$ADA](https://twitter.com/search?q=%24ADA\&src=cashtag\_click), located in Arizona, USA
+* [Adam Dean](https://app.gitbook.com/u/McIeIjuKVLfaCmrdK5juzlZwmn53 "mention")@adamKdean - Just a guy experimenting with blockchain technology and how it can be used. Co-Founder: Buffy Bot, NFTxLV, DripDropz, and others. [#BuildingOnCardano](https://twitter.com/search?q=%23BuildingOnCardano\&src=hashtag\_click) [$ADA](https://twitter.com/search?q=%24ADA\&src=cashtag\_click), located in Arizona, USA
 * [Logan Panchot](https://app.gitbook.com/u/EVaz4x6LQReOemA3NDaNssmhnsG3 "mention")  - Founder of the Clarity Protocol - USA
 * [Justin Schreiner](https://app.gitbook.com/u/Gr3f6o7Uwzfqzuis7t7e8xVXxtJ2 "mention")  - Co-Founder of the Clarity Protocol - USA
 * [adam](https://app.gitbook.com/u/BwB03l11h1hs8W0EACHW9PCGVY03 "mention") - @adamrusch - Summon Platform - based in the USA
