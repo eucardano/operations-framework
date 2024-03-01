@@ -22,7 +22,7 @@
 
 {% embed url="https://www.youtube.com/watch?v=t07CZ8XQEoc&t=32s&pp=ygUJZXVjYXJkYW5v" %}
 
-[https://youtu.be/sCxZXrvmeT8](https://youtu.be/sCxZXrvmeT8)
+{% embed url="https://youtu.be/sCxZXrvmeT8" %}
 
 [https://github.com/orgs/eucardano/projects/4/views/2?pane=issue\&itemId=54470033](https://github.com/orgs/eucardano/projects/4/views/2?pane=issue\&itemId=54470033)
 
