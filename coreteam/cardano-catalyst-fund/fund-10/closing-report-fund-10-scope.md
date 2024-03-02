@@ -38,3 +38,34 @@ An overview of the on-chain activity for the multisig $EUCardano Wallet is here:
 And the categorization data is available here:
 
 {% embed url="https://github.com/eucardano/operations-framework/blob/main/European%20Cardano%20Community%20as%20of%202024-03-02%2008-15%20-%20Register.csv" %}
+GitHub file containing inflow/outflow details
+{% endembed %}
+
+### Overview of YouTube Recordings and X-Spaces
+
+An overview of the YouTube sessions (i.e. Fireside Chats / Town Hall Meetings) is documented in the respective monthly report pages.
+
+For easier access, here you find the link to the YouTube Channel, used for publishing all sessions.
+
+{% embed url="https://www.youtube.com/@eucardano/videos" %}
+All YouTube recordings of EU Cardano
+{% endembed %}
+
+Additionally, here are screenshots from the YouTube Studio channel overview.
+
+<div>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-02 at 08.25.41.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-02 at 08.26.15.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-02 at 08.26.00.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+Our X-Spaces are summarized here:
+
