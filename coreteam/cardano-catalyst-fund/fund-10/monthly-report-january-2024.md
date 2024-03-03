@@ -26,31 +26,6 @@
 
 {% embed url="https://www.youtube.com/watch?v=Oud5qqDuAms" %}
 
-
-
-## X-Spaces (aka Twitter Spaces)
-
-Newest to oldest:
-
-* ECC feats. Drinks with your SPO - Meet CLINK\
-
-* ECC Croazia\
-
-* X Space στα ελληνικά
-* Cardano in Italiano!
-
-(Links, see below)
-
-## KPI Updates
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-12-09 at 05.28.58.png" alt=""><figcaption><p>Update per Nov 30th 2023</p></figcaption></figure>
-
-* Increase in X-users up to approx. 3500 followers
-* 6 additional projects have created their project area in Discord
-* Users in Discord: 439
-
-<figure><img src="../../.gitbook/assets/Screenshot 2023-12-09 at 05.22.19.png" alt="" width="375"><figcaption><p>New projects added in Nov 2023</p></figcaption></figure>
-
 ## Summary
 
 * Links to the YouTube recordings -> done
