@@ -61,13 +61,3 @@
     * [During the Year](awareness-campaigns/raffles/during-the-year.md)
     * [Christmas Calendar Short Pitch Contest](awareness-campaigns/raffles/christmas-calendar-short-pitch-contest/README.md)
       * [Winners](awareness-campaigns/raffles/christmas-calendar-short-pitch-contest/winners.md)
-
-## Group 1
-
-## Group 2
-
-## Group 3
-
-## Group 4
-
-## Group 5
