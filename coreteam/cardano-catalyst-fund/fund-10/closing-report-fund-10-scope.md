@@ -19,7 +19,7 @@ Based on the closing report, the team will creat a closing video which summarize
 
 The following table shows the tracking of our KPI for the Fund 10 proposal timeframe.&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-02 at 20.18.52.png" alt=""><figcaption><p>Update of the KPI as of E02.2024</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-02 at 20.18.52.png" alt=""><figcaption><p>Update of the KPI as of E02.2024</p></figcaption></figure>
 
 Given the difficult market conditions, the growth of the community is noticeable and is reflected in the KPI. We highlighted those values in "green" (column "Goal") which were met according to the planning when submitting the proposal.&#x20;
 
@@ -31,11 +31,11 @@ Collaborations between founders and people wanting to learn about the different 
 
 ### Overview of inflows and outflows by category
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-02 at 08.09.37.png" alt=""><figcaption><p>Inflows by category</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-02 at 08.09.37.png" alt=""><figcaption><p>Inflows by category</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-02 at 08.10.13.png" alt=""><figcaption><p>Outflows by category</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-02 at 08.10.13.png" alt=""><figcaption><p>Outflows by category</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-02 at 08.13.34.png" alt=""><figcaption><p>Utilization of funds</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-02 at 08.13.34.png" alt=""><figcaption><p>Utilization of funds</p></figcaption></figure>
 
 An overview of the on-chain activity for the multisig $EUCardano Wallet is here:[https://cexplorer.io/address/addr1x8d3rshmg50m9pu6xfypllcpawx3ds3l0hcgllm6jr2p5ymswzshr40z7e67kzukywq9wau5j687e4gr29fwy8xksn5slneeaz#data](https://cexplorer.io/address/addr1x8d3rshmg50m9pu6xfypllcpawx3ds3l0hcgllm6jr2p5ymswzshr40z7e67kzukywq9wau5j687e4gr29fwy8xksn5slneeaz#data)
 
@@ -61,17 +61,52 @@ Additionally, here are screenshots from the YouTube Studio channel overview.
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-02 at 08.25.41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-02 at 08.25.41.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-02 at 08.26.15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-02 at 08.26.15.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-02 at 08.26.00.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2024-03-02 at 08.26.00.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
 Our X-Spaces are summarized here:
 
+{% content-ref url="closing-report-fund-10-scope/x-spaces-recap.md" %}
+[x-spaces-recap.md](closing-report-fund-10-scope/x-spaces-recap.md)
+{% endcontent-ref %}
+
+For easier access, see also this list:
+
+* Oct 30, SPO (Mladen) - 33 tuned in, 45:33
+* Oct 31, Spain - 803 tuned in, 1:15:31
+* Nov 16, Italy - 140 tuned in, 1:26:11
+* Nov 20, Greece - 366 tuned in, 1:37:4
+* Nov 22, Croatia - 83 tuned in, 1:16:25
+* Nov 23, SPO (CLINK) - 26 tuned in, 54:30
+* Dec 4, Italy, 211 tuned in - 1:25:38
+* Dec 11, SPO (APEX) - 25 tuned in, 51:00
+* Dec 18, Italy - 161 tuned in, 1:11:47
+* Jan 9, SPO (TECH) - 14 tuned in, 1:05:00
+* Jan 16, Italy - 58 tuned in, 1:18:54
+* Jan 25, Greece - 234 tuned in, 1:16:24
+* Feb 7, Italy - 57 tuned in, 1:04:13
+* Feb 8, SPO (GROW), 27 tuned in, 1:18:21
+
+### Summary and THANK you #CardanoCommunity
+
+Huge thanks to our Cardano family! Even though the market has been like a rollercoaster, your spirit and support have really shined, helping our community blossom. It's true, we stumbled a bit - our Zoom and Discord goals weren't fully met, but seeing so many of you jump into our YouTube events and X-Spaces felt like a warm homecoming. It's the coming together, the sharing of dreams and knowledge, that truly sparks joy in our hearts.
+
+We're now setting our sights on making our Discord a buzzing place of connection and planning more collaborations that remind us of the vibrant gatherings back home. The insights from our financial tracking and all those digital get-togethers are our guiding stars for the journey ahead.
+
+So, here's a big shout out to you, our Cardano community, for being such an incredible force. Thanks a million for riding this wave with us. Let's keep this spirit alive and kick some goals together!
+
+\
+Your sincerely, \
+\
+
+
+The Admin Team of @EUCardano&#x20;
