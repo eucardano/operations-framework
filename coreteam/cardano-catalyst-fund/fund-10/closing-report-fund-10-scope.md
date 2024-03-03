@@ -75,8 +75,8 @@ Additionally, here are screenshots from the YouTube Studio channel overview.
 
 Our X-Spaces are summarized here:
 
-{% content-ref url="closing-report-fund-10-scope/x-spaces-recap.md" %}
-[x-spaces-recap.md](closing-report-fund-10-scope/x-spaces-recap.md)
+{% content-ref url="closing-report-fund-10-scope/x-spaces-overview.md" %}
+[x-spaces-overview.md](closing-report-fund-10-scope/x-spaces-overview.md)
 {% endcontent-ref %}
 
 For easier access, see also this list:

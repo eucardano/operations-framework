@@ -34,7 +34,7 @@
     * [🛫 Monthly Report - January 2024](cardano-catalyst-fund/fund-10/monthly-report-january-2024.md)
     * [🛫 Monthly Report - February 2024](cardano-catalyst-fund/fund-10/monthly-report-february-2024.md)
     * [🛫 Closing Report - Fund 10 Scope](cardano-catalyst-fund/fund-10/closing-report-fund-10-scope.md)
-      * [X Spaces recap](cardano-catalyst-fund/fund-10/closing-report-fund-10-scope/x-spaces-recap.md)
+      * [X Spaces Overview](cardano-catalyst-fund/fund-10/closing-report-fund-10-scope/x-spaces-overview.md)
   * [🍐 Fund 11](cardano-catalyst-fund/fund-11.md)
 * [Payments / Reimbursements](payments-reimbursements/README.md)
   * [🌐 Oct 2023](payments-reimbursements/oct-2023/README.md)

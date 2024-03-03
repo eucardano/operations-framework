@@ -1,4 +1,4 @@
-# X Spaces recap
+# X Spaces Overview
 
 This is the list of all the X Space hosted by the European Cardano Community in the Fund 10 Scope:\
 \
@@ -18,3 +18,6 @@ This is the list of all the X Space hosted by the European Cardano Community in 
 * Jan 25, Greece - 234 tuned in, 1:16:24
 * Feb 7, Italy - 57 tuned in, 1:04:13
 * Feb 8, SPO (GROW), 27 tuned in, 1:18:21
+
+In order to reach the different spaces in X, anyone can use the following search string:\
+[https://twitter.com/search?q=%40eucardano%20space\&src=typed\_query\&f=top](https://twitter.com/search?q=%40eucardano%20space\&src=typed\_query\&f=top)
