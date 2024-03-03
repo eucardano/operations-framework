@@ -98,9 +98,12 @@ For easier access, see also this list:
 
 ### Summary and THANK you #CardanoCommunity
 
-Huge thanks to our Cardano family! Even though the market has been like a rollercoaster, your spirit and support have really shined, helping our community blossom. It's true, we stumbled a bit - our Zoom and Discord goals weren't fully met, but seeing so many of you jump into our YouTube events and X-Spaces felt like a warm homecoming. It's the coming together, the sharing of dreams and knowledge, that truly sparks joy in our hearts.
+Huge thanks to our Cardano family! Even though the market has been like a rollercoaster, your spirit and support have really shined, helping our community blossom. \
+We stumbled a bit to meet our Zoom and Discord goals to the fullest, but seeing so many of you jump into our YouTube events and X-Spaces always feels like a warm homecoming. \
+We have created a spot where founders meet and talk casually about their projects and what moves them, which leaves us proudly humbled to be part of our team and the whole movement around blockchain, especially within Cardano.\
+It's the coming together, the sharing of dreams and knowledge, that truly sparks joy in our hearts.
 
-We're now setting our sights on making our Discord a buzzing place of connection and planning more collaborations that remind us of the vibrant gatherings back home. The insights from our financial tracking and all those digital get-togethers are our guiding stars for the journey ahead.
+We're now setting our sights on making in-person events and our Discord a buzzing place of connection and planning more collaborations that remind us of the vibrant gatherings back home. The insights from our financial tracking and all those digital get-togethers are our guiding stars for the journey ahead.
 
 So, here's a big shout out to you, our Cardano community, for being such an incredible force. Thanks a million for riding this wave with us. Let's keep this spirit alive and kick some goals together!
 
