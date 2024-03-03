@@ -1,5 +1,5 @@
 ﻿"Account","Flag","Date","Payee","Category Group/Category","Category Group","Category","Memo","Outflow","Inflow","Cleared"
-"MultiSig Account","","27.02.2024","Marcus Ubani","ECC Expenses: SW and Licences","ECC Expenses","SW and Licences","",185.19,0.00,"Reconciled"
+"MultiSig Account","","27.02.2024","Marcus Ubani","ECC Expenses: SW and Licences","ECC Expenses","SW and Licences","https://cardanoscan.io/transaction/f210fa6bbce93d5f2b2b716634c75e198363bf6982bfe1cdb34c1c8cfa7a2bec",185.19,0.00,"Reconciled"
 "MultiSig Account","","17.02.2024","Winner Raffle Meld","ECC Expenses: Merchandise","ECC Expenses","Merchandise","https://cexplorer.io/tx/ba2cf1ea0fdb837e6c2a7cd029535c0fabe6d179dbeccb1387a4a98a456dce6d",1.47,0.00,"Reconciled"
 "MultiSig Account","","16.02.2024","$meldguy","ECC Expenses: Merchandise","ECC Expenses","Merchandise","Meld NFT Giveaway",2.72,0.00,"Reconciled"
 "MultiSig Account","","14.02.2024","$grow.welldodo","ECC Expenses: X Spaces","ECC Expenses","X Spaces","https://cexplorer.io/tx/fdc2f97dbc7e92d31a4e346e5b9950bf3eec1560ba5e0b33bc8c428a58e0b383",85.24,0.00,"Reconciled"
