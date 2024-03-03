@@ -13,7 +13,7 @@ Our closing report contains the following sections:
 * A report showing all inflows and outflows by category
 * An overview of all recorded YouTube events and X-Spaces (via the EU Town Hall Website)
 
-Based on the closing report, the team will creat a closing video which summarizes the main aspects of the closing report (approx. 5 min duration).
+Based on this closing report, the team will create a closing video which summarizes the main aspects of the closing report (approx. 5 min duration).
 
 ### Update of KPI
 
