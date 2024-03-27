@@ -31,6 +31,11 @@ but we expect you to be able to
 This is a team-effort and the params, the events, and the blueprints will evolve with your feedback.  
 
 
+Check out our 👉[Roadmap](https://github.com/orgs/eucardano/projects/8/views/4)👈 and consider hosting one of the `Country Hubs Event #n`.  
+Comment into the item with your thoughts on date and venue.  
+
+
+
 We are looking forward to you  
 The ECC team 🔥❤️🌱
 
