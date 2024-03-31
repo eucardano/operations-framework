@@ -1,7 +1,5 @@
 # 🛫 Monthly Report - 03/2024
 
-
-
 {% hint style="info" %}
 **Link to February's Timesheet**
 
@@ -36,11 +34,11 @@
 
 ## KPI Updates
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-12-09 at 05.28.58.png" alt=""><figcaption><p>Update per Nov 30th 2023</p></figcaption></figure>
 
-* Increase in X-users up to approx. 3500 followers
-* 6 additional projects have created their project area in Discord
-* Users in Discord: 439
+
+<figure><img src="../../.gitbook/assets/2403-ECC-KPI-statement.png" alt=""><figcaption></figcaption></figure>
+
+
 
 \
 X-Spaces
@@ -55,5 +53,7 @@ March 7th, 41 tuned in, 1:01:52\
 
 March 22nd, 70 tuned in, 1:32:46\
 [https://twitter.com/i/spaces/1RDGllYlnRjGL?s=20](https://twitter.com/i/spaces/1RDGllYlnRjGL?s=20)
+
+
 
 ####
