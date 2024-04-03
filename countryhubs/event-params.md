@@ -44,6 +44,7 @@ The ECC team 🔥❤️🌱
 
 Hosts will receive support and a reward for operating a Country Hub event.  
 The following table outlines the funding params that we as ECC can provide.  
+As a host you, want to study the `ADA Funds / Workshop` column.  
 
 
 |Position    | ADA Funds / Month    | ADA Funds / Workshop    |
