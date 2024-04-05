@@ -9,6 +9,8 @@ Our main focus as per proposal is the creation of blueprints for founders, and d
 Both already exist in the traditional world of entrepreneurship and finance.   
 Founders often need a reasonable amount of time to get familiar with business administration tasks or basic legal coverage.  
 Donation processes are accompanied with the hopes that the donation finds its way to the proclaimed purpose, in a legally safe process. 
+Employees from medium and large sized companies can provide insights to the specifications needed to onboard blockchain start-ups into corporate environments.  
+Feel free to propose an extension of the scope if you feel we could enhance the picture and onboarding process for knowledge seeking stakeholders.  
 We assume the need of additional considerations when it comes to the community of blockchain and crypto.  
 
 With this in mind, we are activley searching for hosts, seasoned in their fields, to cater for these tasks.  
