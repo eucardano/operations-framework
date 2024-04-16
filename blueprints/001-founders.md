@@ -18,7 +18,7 @@ However, most if not all of the knowlegde and rules derive from Web2, traditiona
 Making this guide a good compass for Web2 and Web3 enthusiast.  
 
 We hope to find many contributors along the way to improve and expand on our knowledge provided.  
-This is the reason why we have also initiated the [ECC Country Hubs](), a series of live events that we're sponsoring with the help of our funds from Cardano Catalyst.    
+This is the reason why we have also initiated the [ECC Country Hubs](), a series of live events that we're [sponsoring with the help of our funds from Cardano Catalyst](https://github.com/eucardano/operations-framework/blob/main/countryhubs/event-params.md).    
 
 
 ## Table of Contents
