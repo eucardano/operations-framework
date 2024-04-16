@@ -29,10 +29,12 @@ This is the reason why we have also initiated the [ECC Country Hubs](), a series
    1.3 What are the implications to form a company?  
    1.4 Bootstrapping vs. seeking for Funding  
    1.5 Solo vs. Team vs. Community as a Team (OpenSource)  
-2. Basic Legal  
-3. Creating a Product  
-4. Marketing  
-5. ..  
+2. Basic Legal
+3. Basic Finance
+4. Basic Accounting  
+5. Creating a Product  
+6. Marketing  
+7. ..  
 
 
 
