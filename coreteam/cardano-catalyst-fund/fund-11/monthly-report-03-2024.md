@@ -1,6 +1,14 @@
 # 🛫 Monthly Report - 03/2024
 
+
+
 {% hint style="info" %}
+**Link to Public Report**
+
+[https://github.com/eucardano/operations-framework/blob/main/reports/f11/02-032024.md](../../../reports/f11/02-032024.md)
+
+
+
 **Link to March's Timesheet & Payment Receipt**
 
 [https://docs.google.com/spreadsheets/d/1C98gaRhgkghrAsYugu-O7f40Ng1Z1TerIC8ycBGE\_wo/edit#gid=1916200438](https://docs.google.com/spreadsheets/d/1C98gaRhgkghrAsYugu-O7f40Ng1Z1TerIC8ycBGE\_wo/edit#gid=1916200438)
@@ -16,7 +24,7 @@
 
 
 
-<table><thead><tr><th width="287">Position</th><th width="135" align="right">Amount in ADA</th><th width="204">Commennt</th><th width="163" data-type="content-ref">Tx</th></tr></thead><tbody><tr><td>ECC Core Team operations</td><td align="right">3.465,20</td><td></td><td><a href="https://cardanoscan.io/transaction/56985e3a1f1286a981ac0d0fb050930e5c265ec1013e67a3a70a2757513a3189">https://cardanoscan.io/transaction/56985e3a1f1286a981ac0d0fb050930e5c265ec1013e67a3a70a2757513a3189</a></td></tr><tr><td>ECC Core Team support member</td><td align="right">24,93</td><td>Calculation shows a different amount of 63 ADA as we haven't built for this edge case yet.</td><td><a href="https://cardanoscan.io/transaction/4cf0d6289e40acca8f0c5231601bf8af1900738319acb0965164d746fb4a522b">https://cardanoscan.io/transaction/4cf0d6289e40acca8f0c5231601bf8af1900738319acb0965164d746fb4a522b</a></td></tr><tr><td>X-Space: Italian (2hosts)</td><td align="right">170</td><td></td><td></td></tr><tr><td>X-Space: Greek (2hosts)</td><td align="right">170</td><td>DAOWallet</td><td><a href="https://cardanoscan.io/transaction/56985e3a1f1286a981ac0d0fb050930e5c265ec1013e67a3a70a2757513a3189">https://cardanoscan.io/transaction/56985e3a1f1286a981ac0d0fb050930e5c265ec1013e67a3a70a2757513a3189</a></td></tr><tr><td></td><td align="right"></td><td></td><td></td></tr><tr><td></td><td align="right"></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="308">Position</th><th width="135" align="right">Amount in ADA</th><th width="204">Comment</th><th width="163" data-type="content-ref">Tx</th></tr></thead><tbody><tr><td>ECC Core Team operations</td><td align="right">3.465,20</td><td></td><td><a href="https://cardanoscan.io/transaction/56985e3a1f1286a981ac0d0fb050930e5c265ec1013e67a3a70a2757513a3189">https://cardanoscan.io/transaction/56985e3a1f1286a981ac0d0fb050930e5c265ec1013e67a3a70a2757513a3189</a></td></tr><tr><td>ECC Core Team support member</td><td align="right">24,93</td><td>Calculation shows a different amount of 63 ADA as we haven't built for this edge case yet.</td><td><a href="https://cardanoscan.io/transaction/4cf0d6289e40acca8f0c5231601bf8af1900738319acb0965164d746fb4a522b">https://cardanoscan.io/transaction/4cf0d6289e40acca8f0c5231601bf8af1900738319acb0965164d746fb4a522b</a></td></tr><tr><td>X-Space: Italian (2hosts)</td><td align="right">170</td><td></td><td></td></tr><tr><td>X-Space: Greek (2hosts)</td><td align="right">170</td><td>DAOWallet</td><td><a href="https://cardanoscan.io/transaction/56985e3a1f1286a981ac0d0fb050930e5c265ec1013e67a3a70a2757513a3189">https://cardanoscan.io/transaction/56985e3a1f1286a981ac0d0fb050930e5c265ec1013e67a3a70a2757513a3189</a></td></tr><tr><td>Merch compensation for TECH pool</td><td align="right">185</td><td>Ledger Backup </td><td><a href="https://cardanoscan.io/transaction/f210fa6bbce93d5f2b2b716634c75e198363bf6982bfe1cdb34c1c8cfa7a2bec">https://cardanoscan.io/transaction/f210fa6bbce93d5f2b2b716634c75e198363bf6982bfe1cdb34c1c8cfa7a2bec</a></td></tr><tr><td></td><td align="right"></td><td></td><td></td></tr></tbody></table>
 
 ### YouTube Video References:
 
