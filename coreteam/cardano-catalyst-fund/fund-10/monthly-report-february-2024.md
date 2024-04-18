@@ -14,7 +14,7 @@
 
 
 
-
+<table><thead><tr><th width="308">Position</th><th width="135" align="right">Amount in ADA</th><th width="204">Comment</th><th width="163" data-type="content-ref">Tx</th></tr></thead><tbody><tr><td>ECC Core Team operations</td><td align="right"></td><td></td><td></td></tr><tr><td>ECC Core Team support member</td><td align="right"></td><td></td><td></td></tr><tr><td>X-Space: Italian (2hosts)</td><td align="right"></td><td></td><td></td></tr><tr><td>X-Space: Italian (2hosts)</td><td align="right"></td><td></td><td></td></tr><tr><td>X-Space: Greek (2hosts)</td><td align="right"></td><td>DAOWallet</td><td></td></tr><tr><td>Merch compensation for TECH pool</td><td align="right">185</td><td>Ledger Backup (arrived in March) </td><td><a href="https://cardanoscan.io/transaction/f210fa6bbce93d5f2b2b716634c75e198363bf6982bfe1cdb34c1c8cfa7a2bec">https://cardanoscan.io/transaction/f210fa6bbce93d5f2b2b716634c75e198363bf6982bfe1cdb34c1c8cfa7a2bec</a></td></tr><tr><td></td><td align="right"></td><td></td><td></td></tr></tbody></table>
 
 ### YouTube Video References:
 
