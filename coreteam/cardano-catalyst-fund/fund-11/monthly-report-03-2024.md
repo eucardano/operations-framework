@@ -56,16 +56,26 @@
 X-Spaces
 --------
 
-#### Italy #1
+**Italy, Feb 7**
 
-March 7th, 41 tuned in, 1:01:52\
-[https://twitter.com/i/spaces/1ZkKzjWLjpWKv?s=20](https://twitter.com/i/spaces/1ZkKzjWLjpWKv?s=20)
+59 tuned in, 1:04:13
 
-#### Italy #2
+{% embed url="https://twitter.com/i/spaces/1RDGllwpkRNGL" %}
 
-March 22nd, 70 tuned in, 1:32:46\
-[https://twitter.com/i/spaces/1RDGllYlnRjGL?s=20](https://twitter.com/i/spaces/1RDGllYlnRjGL?s=20)
+**SPO (GROW)**
 
+Feb 8 27 tuned in, 1:18:21
 
+{% embed url="https://twitter.com/i/spaces/1OyKAWlnWjDJb" %}
 
-####
+**Italy, March 7th**
+
+41 tuned in, 1:01:52
+
+{% embed url="https://twitter.com/i/spaces/1ZkKzjWLjpWKv?s=20" %}
+
+**Italy, March 22nd**
+
+70 tuned in, 1:32:46
+
+{% embed url="https://twitter.com/i/spaces/1RDGllYlnRjGL?s=20" %}
