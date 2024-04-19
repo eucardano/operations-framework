@@ -18,8 +18,8 @@ We expect some workshops with low and some with the maximum participation.
 | Position | Price in EUR | Price in ADA | Link | Specs |
 |:----- | -----:|------:|:----- |:-----|
 | 200 Pens | |  | [Offer]()| | 
-| 200 Notebooks (paperbooks)| |  | [Offer]() | |
-| 200 Bottles | 818,73 | 1.949,36 | [Offer](https://www.flyeralarm.com/de/p/trinkflaschen-mit-karabiner-11405775.html#/p/FV-11405926&/l/10073) | |
+| 200 Notebooks (paperbooks)| |  | [Offer]() |  |
+| 200 Bottles | 818,73 | 1.949,36 | [Offer](https://www.flyeralarm.com/de/p/trinkflaschen-mit-karabiner-11405775.html#/p/FV-11405926&/l/10073) | - 4 colors, non-reflecting white, Digital Print|
 
 ### Design Suggestion: 
 
