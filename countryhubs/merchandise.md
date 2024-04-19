@@ -19,7 +19,7 @@ We expect some workshops with low and some with the maximum participation.
 |:----- | -----:|------:|:----- |:-----| :---- |
 | 250 Pencils | 100.03 | 238.16  | [Offer](https://www.flyeralarm.com/de/p/bleistifte-mit-radiergummi-4227899.html#/p/FV-4802234&/l/6826) | Blue, one color | [Datasheet](https://www.flyeralarm.com/sheets/de/bleistift_radierer.pdf) | 
 | 250 Notebooks (paperbooks)| 257.43 | 612.93 | [Offer](https://www.flyeralarm.com/de/p/notizhefte-4342214.html#/p/FV-4578982&/l/7008) | Blanko, DINA5, 130g no refinement outside, 40 pages 80g inside, organic paper, rounded corners  | [Datasheet](https://www.flyeralarm.com/sheets/de/heft_a5_mass.pdf) |
-| 200 Bottles | 818.73 | 1,949.36 | [Offer](https://www.flyeralarm.com/de/p/trinkflaschen-mit-karabiner-11405775.html#/p/FV-11405926&/l/10073) | - 4 colors, non-reflecting white, Digital Print| [Datasheet](https://www.flyeralarm.com/sheets/de/rw_flasch_karab_400ml_207x100_dd.pdf)|
+| 200 Bottles | 818.73 | 1,949.36 | [Offer](https://www.flyeralarm.com/de/p/trinkflaschen-mit-karabiner-11405775.html#/p/FV-11405926&/l/10073) | 4 colors, non-reflecting white, Digital Print| [Datasheet](https://www.flyeralarm.com/sheets/de/rw_flasch_karab_400ml_207x100_dd.pdf)|
 
 ### Design Suggestion: 
 
