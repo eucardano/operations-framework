@@ -5,7 +5,7 @@ Thank you for making the consideration to join us in improving the journey for f
 The outspoken goal of our Country Hub events is to foster the personal interaction between community members   
 whilst providing a knowledge transfer from and between seasoned members to newcomers of the blockchain and crypto community.  
 
-Our main focus as per proposal is the creation of blueprints for founders, and donation campaigns.  
+Our main focus as per proposal is the creation of [blueprints for founders](https://github.com/eucardano/operations-framework/blob/main/blueprints/001-founders.md), and donation campaigns.  
 Both already exist in the traditional world of entrepreneurship and finance.   
 Founders often need a reasonable amount of time to get familiar with business administration tasks or basic legal coverage.  
 Donation processes are accompanied with the hopes that the donation finds its way to the proclaimed purpose, in a legally safe process. 
