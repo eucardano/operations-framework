@@ -54,7 +54,7 @@ As a host you, want to study the `ADA Funds / Workshop` column.
 |Host        |              2000|                   400| 
 |Venue       |              2500|                   500| 
 |Catering    |              1350|                   270| 
-|Merchandise* |             1375|                   275| 
+|[Merchandise](https://github.com/eucardano/operations-framework/blob/main/countryhubs/merchandise.md)* |             1375|                   275| 
 
 
-*The Core Team will provide Merchandise Articles (e.g. notebooks, pens) so hosts can focus on the preparation and hosting of the event.
+*The Core Team will provide Merchandise Articles (e.g. notebooks, pens) so hosts can focus on the preparation and hosting of the event. Please use the [link](https://github.com/eucardano/operations-framework/blob/main/countryhubs/merchandise.md) provided to get to the specifications page.
