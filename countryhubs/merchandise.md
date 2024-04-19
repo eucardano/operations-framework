@@ -15,11 +15,11 @@ We expect some workshops with low and some with the maximum participation.
 
 ### Merchandise considerations:
 
-| Position | Price in EUR | Price in ADA | Link | 
-|:----- | -----:|------:|:----- | 
-| 200 Pens | |  | |
-| 200 Notebooks (paperbooks)| |  | |
-| 200 Bottles | | | https://www.flyeralarm.com/de/p/trinkflaschen-mit-karabiner-11405775.html |
+| Position | Price in EUR | Price in ADA | Link | Specs |
+|:----- | -----:|------:|:----- |:-----|
+| 200 Pens | |  | [Offer]()| | 
+| 200 Notebooks (paperbooks)| |  | [Offer]() | |
+| 200 Bottles | | | [Offer](https://www.flyeralarm.com/de/p/trinkflaschen-mit-karabiner-11405775.html#/p/FV-11405926&/l/10073) | |
 
 ### Design Suggestion: 
 
