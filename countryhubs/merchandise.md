@@ -31,3 +31,8 @@ If see a lower participation rate, then we will be able to use the remainders in
 - European Cardano Community
 - Country Hubs
 - est. 2024
+
+### External Design Support
+
+As the specifications are minimalistic, we decided to create the design inhouse (within the team).  
+Reasoning: The design communication will probably exceed the time needed to create the design. 
