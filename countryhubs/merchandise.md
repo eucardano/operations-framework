@@ -35,4 +35,4 @@ If see a lower participation rate, then we will be able to use the remainders in
 ### External Design Support
 
 As the specifications are minimalistic, we decided to create the design inhouse (within the team).  
-Reasoning: The design communication will probably exceed the time needed to create the design. 
+Reasoning: The design communication in addition to the freelancer feee will likely exceed the time needed to create the design. 
