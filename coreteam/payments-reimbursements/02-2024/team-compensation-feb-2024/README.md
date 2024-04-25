@@ -16,3 +16,6 @@ description: Overview of actual points in this month.
 | Mauro Andreoli  | addr1qx2rhevr07na8v2ejq0xjaxs2m8nnw5ddv9kz3yrwr650fmy3377y7pmdf7sf2d3ral3ke54uwk6lz49dker65s009tqul20uj | <p><br>211.93</p> |
 
 An email with the underlying data was sent to all team members for reference on Mar 4th 2024
+
+Link to the transaction: \
+[https://cexplorer.io/tx/0cfed6e1d995685af8becbc8cc43829557ab2675c331d39b0893977848bd075d](https://cexplorer.io/tx/0cfed6e1d995685af8becbc8cc43829557ab2675c331d39b0893977848bd075d)
