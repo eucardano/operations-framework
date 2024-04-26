@@ -24,7 +24,7 @@
 
 {% embed url="https://youtu.be/vquo-v4mSDQ" %}
 
-
+[https://youtu.be/\_xQMTMAQSJs](https://youtu.be/\_xQMTMAQSJs)
 
 ## KPI Updates
 
