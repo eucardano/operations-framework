@@ -36,7 +36,7 @@ https://twitter.com/i/spaces/1RDGllYlnRjGL?s=20
 https://twitter.com/i/spaces/1MYxNoADpPZKw
 
 ### Italy, April 28
-https://twitter.com/i/spaces/1BRJjPeolnaKw
+https://twitter.com/i/spaces/1vAxRvyRjmXxl
 
 ### Greece, May 6
 https://twitter.com/i/spaces/1DXGyjYdEwRJM
