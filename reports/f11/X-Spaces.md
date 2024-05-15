@@ -36,9 +36,9 @@ https://twitter.com/i/spaces/1RDGllYlnRjGL?s=20
 https://twitter.com/i/spaces/1MYxNoADpPZKw
 
 ### Italy, April 28
+426 tuned in, 1:15:01
 https://twitter.com/i/spaces/1vAxRvyRjmXxl
 
 ### Greece, May 6
+288 tuned in, 3:04:05
 https://twitter.com/i/spaces/1DXGyjYdEwRJM
-
-### Germany, May 6 ???
