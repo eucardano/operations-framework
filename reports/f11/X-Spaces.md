@@ -42,3 +42,7 @@ https://twitter.com/i/spaces/1vAxRvyRjmXxl
 ### Greece, May 6
 288 tuned in, 3:04:05
 https://twitter.com/i/spaces/1DXGyjYdEwRJM
+
+### Greece, June 3
+196 tuned in, 1:49:24
+https://x.com/i/spaces/1OdKrjVdnkVKX
