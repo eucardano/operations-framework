@@ -58,3 +58,19 @@ As a host you, want to study the `ADA Funds / Workshop` column.
 
 
 *The Core Team will provide Merchandise Articles (e.g. notebooks, pens) so hosts can focus on the preparation and hosting of the event. Please use the [link](https://github.com/eucardano/operations-framework/blob/main/countryhubs/merchandise.md) provided to get to the specifications page.
+
+
+### Suggested Process
+
+1. You find a topic that suits you and our [Event Params](https://github.com/eucardano/operations-framework/blob/main/countryhubs/event-params.md) (you are reading them atm) given in GitHub (you can be creative) . 
+2. Filter our GitHub roadmap for "Country Hubs" and claim an item by commenting into it [click here](https://github.com/orgs/eucardano/projects/8/views/4?filterQuery=country+hubs)
+3. Add dates, venue, and create a outline so you can share the item content with us and your participants. (Here is a great example: [Country Hub Greece](https://github.com/orgs/eucardano/projects/8/views/4?filterQuery=country+hubs&pane=issue&itemId=55727588))
+4. a) Formerly:  Check out the [merch design](https://github.com/eucardano/operations-framework/blob/main/countryhubs/merchandise.md) - if you're doxxed with us and already are a familiar member of our community we will be able to reimburse you on that quote
+4. b) New: Provide an amount of expected participants and we will ship the merch to you. Stock ordering is currently in process.
+5. Get a quote for the venue and catering - if you're doxxed with us and already are a familiar member of our community we will be able to reimburse you on that quote. 
+6. Market the workshop via our X account. If we know you from previous events, we can provide you creator access.
+7. Hold the event and create content for us that we can reuse for our blueprints.
+8. Provide a little recording for our YouTube (Could be a 1 minute short or the whole workshop)
+9. Create a tweet and (optional) join our blueprint writing
+10. Send us the final receipts to allow counterchecking with the pre-reimbursements.
+11. If you have questions feel free to ask them in our Discord's [Country Hubs General Questions](https://discord.com/channels/994521479016357898/1235554708031279214), Discord's [#🆘-support-ticket](https://discord.com/channels/994521479016357898/1187533142039478292) , or within your GitHub item/issue
