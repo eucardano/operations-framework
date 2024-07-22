@@ -30,6 +30,4 @@ Here the interest of the participants sparkled! They did not know about these op
 Regarding the topic “Marketing within the Web3.0 environment”.
 The discussion was around credibility and trustworthy of the projects. Here I, as a specialyst in the industry pointed out the complete transparancy of the projects provided by the founders of the company/business through platforms like Discord, Cardanospot, YouTube, LinkedIN… etc…
 Showcasing already completed work and devotion around the project.
-
-
 Unfortunately we didn’t have the time to cover everything from the original plan due to the heated discussions that emerged from the topics. All of the participants are eager to attend to a second WS to continue with the topics. We are planning to organize a 2nd WS in the following 2 months.
