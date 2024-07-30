@@ -3,22 +3,26 @@
 ### Summary
 
 1. **Country of CHWS**:  
-   [Enter the country where your Country Hub Workshop took place.]
+   Greece
 
 2. **Date (DAY/MONTH/YEAR)**:  
-   [Enter the date of the event.]
+   First workshop Athens: 15-07-24
+   Second workshop Athens: 16-07-24
+   Workshop Thessaloniki: 21-07-24
 
-3. **Venue**:  
-   [Provide the Address where the event took place.]
+4. **Venue**:  
+   Karaiskaki 28, 10554 Athens, Greece
 
-4. **Participant Count**:  
-   [Enter the number of participants at the workshop.]
+5. **Participant Count**:  
+Athens Day 1: 5 people (10 had signed up, we had an unexpectedly high amounts of no shows)
+Athens Day 2: 10 people
+Thessaloniki: 13 people
 
-5. **Catering Type**:  
-   [Let us know if you did make or buy food and beverage]
+7. **Catering Type**:  
+   We had Food & Beverage delivered to the veniew 
 
-6. **Merchandise from European Cardano Community**:  
-   [Indicate if you used ECC merchandise. If you used your own designs and prints, include details for potential reimbursement along with a statement. ECC must be prominent on these designs, to be eligible.]
+8. **Merchandise from European Cardano Community**:  
+   We did not recieved any merchantise from the ECC. We made banners for the workshops, with OdyC DAO's and ECC's logos on them. 
 
 ### Expenses Lists
 
@@ -28,36 +32,49 @@
 
 | Date | EUR | Description |
 |:---:  | ---:|:---         |
-|31.01.2024 | 124,00 | Venue Paris, Rue due Cardano 2015, Postal Code |
-|31.01.2024 | 51,00 | Non-refundable Deposit for Venue  |
-|**Subtotal** | 180,00 |   |
+|04.06.2024 | 148,80| Venue down payment (Impact hub Athens) (for both days) |
+|15.06.2024 | 347,20| Venue settlement payment (Impact hub Athens) (for both days) |
+|**Subtotal** | 496,00 |   |
 
 ### Catering
 
 | Date | EUR | Description |
 |:---:  | ---:|:---         |
-|31.01.2024 | 54,00 | Food & Beverage Receipt 1 |
-|31.01.2024 | 46,00 | Food & Beverage Receipt 2 |
-|**Subtotal** | 100,00 |   |
+|15.06.2024 | 49,20 | Food & Beverage Receipt 1 |
+|16.06.2024 | 63,60 | Food & Beverage Receipt 2 |
+|21.06.2024 | 138,50| Food & Beverage Receipt 3 |
+|**Subtotal** | 251,30 |   |
 
 ### Merchandise (if applicable)
 
 | Date | EUR | Description |
 |:---:  | ---:|:---         |
-|26.01.2024 | 254,00 | Design |
-|26.01.2024 | 46,00 | Print |
-|**Subtotal** | 300,00 |   |
+|13.06.2024 | 43,00 | Athens Banner |
+|13.06.2024 | 26,04 | Thessaloniki Banner |
+|18.06.2024 | 26,04 | Thessaloniki Consumables |
+|**Subtotal** | 95,08 |   |
 
 ### Grand Total
 
 | Date | EUR | Description |
 |:---:  | ---:|:---         |
-|31.01.2024 | 180,00 | Venue |
-|31.01.2024 | 100,00 | Catering |
-|26.01.2024 | 300,00 | Merchandise |
-|**Grand Total** | 480,00 |   |
-|31.01.2024 | **400 ADA** | Host(s) |
+|21.06.2024 | 496,00 | Venue |
+|21.06.2024 | 251,30 | Catering |
+|21.06.2024 | 95,08 | Merchandise |
+|**Grand Total** | 842,38 |   |
+|15.06.2024 | **400 ADA** | Host(s) |
+|16.06.2024 | **400 ADA** | Host(s) |
+|21.06.2024 | **400 ADA** | Host(s) |
 
 ### Receipts
+[VenueImpact.pdf](https://github.com/user-attachments/files/16431996/VenueImpact.pdf)
 
-[Upload receipts in the order of appearance in your expense lists, in PDF or image format, ensuring clarity and legibility.]
+![CateringAthens Large](https://github.com/user-attachments/assets/5d238e9a-002a-414e-90da-ea2972b491ce)
+![CateringThessaloniki](https://github.com/user-attachments/assets/8d00a3c5-8b95-4a94-8e8b-3eb02698c3c3)
+
+
+![image](https://github.com/user-attachments/assets/fae5ef60-9816-444e-a5d0-309e45ee41cc)
+![image](https://github.com/user-attachments/assets/6916aa9a-3888-4c5e-a347-cad983615deb)
+![WritingMaterial](https://github.com/user-attachments/assets/65a0e730-93a8-46b3-8000-c12edc28beba)
+![Presenter](https://github.com/user-attachments/assets/4865817e-a9e0-41f2-baa5-d395b98c00ec)
+
