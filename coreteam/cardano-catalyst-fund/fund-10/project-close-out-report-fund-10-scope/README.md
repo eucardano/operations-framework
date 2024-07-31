@@ -30,6 +30,18 @@ Based on this closing report, the team will create a closing video which summari
 * It’s all about exploring the gaps where Catalyst innovation funding hasn’t reached yet.
 * Explain how your project will benefit the Cardano ecosystem
 
+We connected new people to Cardano by reaching out beyond our ecosystem, including former SEC lawyers and other blockchain projects like Partisia, Matic, Meld, and Nervos. \
+**Target:** Promote the idea of an open, sincere, and friendly Cardano ecosystem.\
+**Results:** Projects joining our community trust that we are welcoming them while providing valuable conversations.
+
+We planted the seeds to build a Global Donation Framework, and added Cardano core influencers and members to a signing committee including Hoskytoken, Tobler, and most of the Cardano TownHalls.\
+**Target:** Promote the idea to jointly create a framework for a safer and more transparent donation process.\
+**Results:** Through our online event we kickstarted the framework. Results have been very low for now.
+
+We are probably best known to foster communication amongst founders through our fortnightly fireside chats. \
+**Target:** Provide a virtual communication Hub to share views and impacts from a European perspective.\
+**Results:** We are growing into a founder-centric community that promotes inclusivity and opportunities to create connections and exchange founder-relevant information through conversations.
+
 ### List of project KPIs
 
 * sign-ups via Discord invites or other measurable links
