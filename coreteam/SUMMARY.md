@@ -34,7 +34,7 @@
     * [🛫 Monthly Report - January 2024](cardano-catalyst-fund/fund-10/monthly-report-january-2024.md)
     * [🛫 Monthly Report - February 2024](cardano-catalyst-fund/fund-10/monthly-report-february-2024.md)
     * [🛫 Monthly Report - March 2024](cardano-catalyst-fund/fund-10/monthly-report-march-2024.md)
-    * [🛫 Project Close-out Report - Fund 10 Scope](cardano-catalyst-fund/fund-10/project-close-out-report-fund-10-scope/README.md)
+    * [Project Close-out Report - Fund 10 Scope](cardano-catalyst-fund/fund-10/project-close-out-report-fund-10-scope/README.md)
       * [X Spaces Overview](cardano-catalyst-fund/fund-10/project-close-out-report-fund-10-scope/x-spaces-overview.md)
   * [🍐 Fund 11](cardano-catalyst-fund/fund-11.md)
     * [🛫 Monthly Report - 03/2024](cardano-catalyst-fund/fund-11/monthly-report-03-2024.md)

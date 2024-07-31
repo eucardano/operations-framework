@@ -1,16 +1,16 @@
-# 🛫 Project Close-out Report - Fund 10 Scope
+# Project Close-out Report - Fund 10 Scope
 
 ## Title: European Cardano Community Town Hall - Operation
 
-### Link: [https://cardano.ideascale.com/c/idea/103737](https://cardano.ideascale.com/c/idea/103737)
+#### Link: [https://cardano.ideascale.com/c/idea/103737](https://cardano.ideascale.com/c/idea/103737)
 
-### Project ID: 1000082
+#### Project ID: 1000082
 
-### Project Manager: Ricardo Burgos (10/23-01/24)/ Marcus Ubani (01/24-02/24)
+#### Project Manager(s): Ricardo Burgos (10/23-02/24), Marcus Ubani (closing)
 
-### Project start: 10/2023
+#### Project start: 10/2023
 
-### Project Completion: 02/2024
+#### Project Completion: 02/2024
 
 This page summarizes the outcomes from the ECC activities performed between Oct 2023 and February 2024. We are very happy for our growing community and look forward to a great continuation in 2024.
 
@@ -23,6 +23,21 @@ Our closing report contains the following sections:
 * An overview of all recorded YouTube events and X-Spaces (via the EU Town Hall Website)
 
 Based on this closing report, the team will create a closing video which summarizes the main aspects of the closing report (approx. 5 min duration).
+
+### List of challenge KPIs
+
+* Grow the ADA economy and inform our future funding priorities.
+* It’s all about exploring the gaps where Catalyst innovation funding hasn’t reached yet.
+* Explain how your project will benefit the Cardano ecosystem
+
+### List of project KPIs
+
+* sign-ups via Discord invites or other measurable links
+* number of project profiles in the EuCardano Discord
+* Avg users attending our spaces / TH
+* retweets of recordings after a YT publication
+* activity on GitHub for research projects
+* number of endorsements of participants/companies
 
 ### Update of KPI
 
