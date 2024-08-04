@@ -74,7 +74,7 @@ We followed the concept of a simple Marketing Flywheel:&#x20;
 * fortnightly Fireside Chats provide founders a platform to present and connect
 * YouTube recordings of these Fireside Chats manifest the spirit of an inclusive founder hub
 * Twitter/X Spaces help to spread the message of our endeavour to different language clusters
-* Reposts of recordings in YT and Twitter/X endorse what we do and onboard new users
+* Reposts of recordings in YT and Twitter/X endorse what we do and onboard new users to Discord
 
 Given the difficult market conditions, the growth of the community is noticeable and is reflected in the KPI. We highlighted those values in "green" (column "Goal") which were met according to the planning when submitting the proposal.&#x20;
 
