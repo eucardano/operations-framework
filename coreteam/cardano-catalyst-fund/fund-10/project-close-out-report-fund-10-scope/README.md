@@ -30,17 +30,20 @@ Based on this closing report, the team will create a closing video which summari
 * It’s all about exploring the gaps where Catalyst innovation funding hasn’t reached yet.
 * Explain how your project will benefit the Cardano ecosystem
 
+**KPI:** Grow the ADA economy and inform our future funding priorities.\
 We connected new people to Cardano by reaching out beyond our ecosystem, including former SEC lawyers and other blockchain projects like Partisia, Matic, Meld, and Nervos. \
-**Target:** Promote the idea of an open, sincere, and friendly Cardano ecosystem.\
-**Results:** Projects joining our community trust that we are welcoming them while providing valuable conversations.
+**Our Target:** Promote the idea of an open, sincere, and friendly Cardano ecosystem.\
+**Our Results:** Projects joining our community trust that we are welcoming them while providing valuable conversations.
 
+**KPI:** It’s all about exploring the gaps where Catalyst innovation funding hasn’t reached yet.\
 We planted the seeds to build a Global Donation Framework, and added Cardano core influencers and members to a signing committee including Hoskytoken, Tobler, and most of the Cardano TownHalls.\
-**Target:** Promote the idea to jointly create a framework for a safer and more transparent donation process.\
-**Results:** Through our online event we kickstarted the framework. Results have been very low for now.
+**Our Target:** Promote the idea to jointly create a framework for a safer and more transparent donation process.\
+**Our Results:** Through our online event we kickstarted the framework. Results have been very low for now.
 
-We are probably best known to foster communication amongst founders through our fortnightly fireside chats. \
-**Target:** Provide a virtual communication Hub to share views and impacts from a European perspective.\
-**Results:** We are growing into a founder-centric community that promotes inclusivity and opportunities to create connections and exchange founder-relevant information through conversations.
+**KPI:** Explain how your project will benefit the Cardano ecosystem\
+By now we are probably best known to foster communication amongst founders through our fortnightly fireside chats. \
+**Our Target:** Provide a virtual communication Hub to share views and impacts from a European perspective.\
+**Our Results:** We are growing into a founder-centric community that promotes inclusivity and opportunities to create connections and exchange founder-relevant information through conversations.
 
 ### List of project KPIs
 
@@ -51,15 +54,31 @@ We are probably best known to foster communication amongst founders through our 
 * activity on GitHub for research projects
 * number of endorsements of participants/companies
 
-### Update of KPI
+### Adressing project's KPI
 
 The following table shows the tracking of our KPI for the Fund 10 proposal timeframe.&#x20;
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2024-03-02 at 20.18.52.png" alt=""><figcaption><p>Update of the KPI as of E02.2024</p></figcaption></figure>
 
+
+
+After&#x20;
+
+* renaming the Townhall meetings to Fireside Chats to reflect the more casual style
+* changing the Townhall format to a more founder-centric conversational approach
+
+We followed the concept of a simple Marketing Flywheel:&#x20;
+
+* a project channel in our Discord aims to reflect the growth of Europe-connected projects
+* in this channel projects can talk about their projects to connect and expand their community
+* fortnightly Fireside Chats provide founders a platform to present and connect
+* YouTube recordings of these Fireside Chats manifest the spirit of an inclusive founder hub
+* Twitter/X Spaces help to spread the message of our endeavour to different language clusters
+* Reposts of recordings in YT and Twitter/X endorse what we do and onboard new users
+
 Given the difficult market conditions, the growth of the community is noticeable and is reflected in the KPI. We highlighted those values in "green" (column "Goal") which were met according to the planning when submitting the proposal.&#x20;
 
-In the case of the number of participants in the Zoom calls, we didn't quite reach the target value. The teams is continuously evaluating ideas in order to increase the interest of the community and their participation in our online events.&#x20;
+In the case of the number of participants in the Zoom calls, we didn't quite reach the target value. The team is continuously evaluating ideas in order to increase the interest of the community and their participation in our online events. However, the feedback we receive from our guests&#x20;
 
 Main area of focus going forward is the usage of Discord and the engagement there. As reflected in the numbers, we did not reach the desired level of activity there.
 
