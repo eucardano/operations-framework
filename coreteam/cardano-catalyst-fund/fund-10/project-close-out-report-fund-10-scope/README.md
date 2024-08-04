@@ -108,59 +108,46 @@ Reaching out to Community Managers of  IOG and Cardano Foundation works usually 
 
 Influencers have proven to be less reliable partners when it comes to keeping promises or invitations. The opportunistic selection is very obvious here. Obviously this doesn't apply to all influencers, but when it comes to inluencer bookings we see a 50:50 chance of uncommented no-show, while projects/founders almost always show up.
 
-The broader community is best engaged with lighthearted content and giveaways in a TL;DR format. European-related founders seem to enjoy and immerse themselves in the conversation even if it takes longer, while US founders tend to have tighter schedules and withdraw themselves from the conversation once their topic has been discussed.
+The broader community is best engaged with lighthearted content and giveaways in a TL;DR format. European-related founders seem to enjoy and immerse themselves in the conversation even if it takes longer, while US founders tend to have tighter schedules and withdraw themselves from the conversation once their topic has been discussed.\
+Small Stakepool Operators are open to collaboration for increasing delegators and stake, yet remain averse to direct marketing activities apart from project-related outreaches like ISPOs or providing support as batcher nodes.
 
 We also observed shifts in priorities within our team, with some members using the name of the European Cardano Community as a shell to promote their own endeavors while decreasing their contributions to our collective work.
 
 ### Next steps for the product or service developed
 
-We have created a spot where founders meet and talk casually about their projects and what moves them, which leaves us proudly humbled to be part of our team and the whole movement around blockchain, especially within Cardano.\
-It's the coming together, the sharing of dreams and knowledge, that truly sparks joy in our hearts.
+We're now setting our sights on making in-person events, and the European Cardano Community a buzzing place of connection and founder knowledge.&#x20;
 
-We're now setting our sights on making in-person events and our Discord a buzzing place of connection and planning more collaborations that remind us of the vibrant gatherings back home. The insights from our financial tracking and all those digital get-togethers are our guiding stars for the journey ahead.
+We will be working on fly-by and sustainable collaborations to reflect the merge of two paradigms -Web2 and Web3 - both with their own set of rules yet being more intertwined than many want to believe.&#x20;
+
+Moving forward we will use the insights from our financial tracking and all those digital get-togethers as our guiding stars for the journey ahead.
 
 ### Final thoughts
 
-Huge thanks to our Cardano family! Even though the market has been like a rollercoaster, your spirit and support have really shined, helping our community blossom. \
-We stumbled a bit to meet our Zoom and Discord goals to the fullest, but seeing so many of you jump into our YouTube events and X-Spaces always feels like a warm homecoming. \
+We have created a spot where founders meet and talk casually about their projects and what moves them. It leaves us proudly humbled having gathered as the team we are today and being part of the whole movement around blockchain, especially within Cardano.\
+It's the coming together, the sharing of dreams and knowledge, that truly sparks joy in our hearts.
 
+Huge thanks to our Cardano family! Even though the market has been like a rollercoaster, your spirit and support have really shined, helping our community blossom. \
+\
+We stumbled a bit to meet our Zoom and Discord goals to the fullest, but seeing so many of you jump into our YouTube events and X-Spaces always feels like a warm homecoming.&#x20;
 
 So, here's a big shout out to you, our Cardano community, for being such an incredible force. Thanks a million for riding this wave with us. Let's keep this spirit alive and kick some goals together!
 
 \
-Your sincerely, \
-\
-
-
 The Admin Team of @EUCardano&#x20;
 
-### Overview of inflows and outflows by category
+### Link to Close-out Video&#x20;
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-02 at 08.09.37.png" alt=""><figcaption><p>Inflows by category</p></figcaption></figure>
+Close-out Video: [https://www.youtube.com/watch?v=49Nxs0JZl-I](https://www.youtube.com/watch?v=49Nxs0JZl-I)
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-02 at 08.10.13.png" alt=""><figcaption><p>Outflows by category</p></figcaption></figure>
+### Links to other relevant project sources or documents
 
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-02 at 08.13.34.png" alt=""><figcaption><p>Utilization of funds</p></figcaption></figure>
+Fireside Chat Recordings on YouTube: [https://www.youtube.com/@eucardano/videos](https://www.youtube.com/@eucardano/videos)
 
-An overview of the on-chain activity for the multisig $EUCardano Wallet is here:[https://cexplorer.io/address/addr1x8d3rshmg50m9pu6xfypllcpawx3ds3l0hcgllm6jr2p5ymswzshr40z7e67kzukywq9wau5j687e4gr29fwy8xksn5slneeaz#data](https://cexplorer.io/address/addr1x8d3rshmg50m9pu6xfypllcpawx3ds3l0hcgllm6jr2p5ymswzshr40z7e67kzukywq9wau5j687e4gr29fwy8xksn5slneeaz#data)
+Twitter/X Spaces held: [https://european-cardano-community.gitbook.io/core-team-area-european-cardano-community/cardano-catalyst-fund/fund-10/closing-report-fund-10-scope/x-spaces-overview](https://european-cardano-community.gitbook.io/core-team-area-european-cardano-community/cardano-catalyst-fund/fund-10/closing-report-fund-10-scope/x-spaces-overview)
 
-And the categorization data is available here:
+On-chain activity for the multisig $EUCardano Wallet: [https://cexplorer.io/address/addr1x8d3rshmg50m9pu6xfypllcpawx3ds3l0hcgllm6jr2p5ymswzshr40z7e67kzukywq9wau5j687e4gr29fwy8xksn5slneeaz/tx#data](https://cexplorer.io/address/addr1x8d3rshmg50m9pu6xfypllcpawx3ds3l0hcgllm6jr2p5ymswzshr40z7e67kzukywq9wau5j687e4gr29fwy8xksn5slneeaz/tx#data)
 
-{% embed url="https://github.com/eucardano/operations-framework/blob/main/European%20Cardano%20Community%20as%20of%202024-03-02%2008-15%20-%20Register.csv" %}
-GitHub file containing inflow/outflow details
-{% endembed %}
-
-Note that the remaining funds (last payout after closeout) - will be used to bridge the timeframe for operations until Fund 11 becomes active. A carry over by categories will be respected, so that planned budgets per category are not exceeded.
-
-### Overview of YouTube Recordings and X-Spaces
-
-An overview of the YouTube sessions (i.e. Fireside Chats / Town Hall Meetings) is documented in the respective monthly report pages.
-
-For easier access, here you find the link to the YouTube Channel, used for publishing all sessions.
-
-{% embed url="https://www.youtube.com/@eucardano/videos" %}
-All YouTube recordings of EU Cardano
-{% endembed %}
+Inflows and outflows by category: [https://github.com/eucardano/operations-framework/blob/main/European%20Cardano%20Community%20as%20of%202024-03-02%2008-15%20-%20Register.csv](../../../../European%20Cardano%20Community%20as%20of%202024-03-02%2008-15%20-%20Register.csv)
 
 Additionally, here are screenshots from the YouTube Studio channel overview.
 
@@ -178,29 +165,3 @@ Additionally, here are screenshots from the YouTube Studio channel overview.
 
 </div>
 
-Our X-Spaces are summarized here:
-
-{% content-ref url="x-spaces-overview.md" %}
-[x-spaces-overview.md](x-spaces-overview.md)
-{% endcontent-ref %}
-
-For easier access, see also this list:
-
-* Oct 30, SPO (Mladen) - 33 tuned in, 45:33
-* Oct 31, Spain - 803 tuned in, 1:15:31
-* Nov 16, Italy - 140 tuned in, 1:26:11
-* Nov 20, Greece - 366 tuned in, 1:37:4
-* Nov 22, Croatia - 83 tuned in, 1:16:25
-* Nov 23, SPO (CLINK) - 26 tuned in, 54:30
-* Dec 4, Italy, 211 tuned in - 1:25:38
-* Dec 11, SPO (APEX) - 25 tuned in, 51:00
-* Dec 18, Italy - 161 tuned in, 1:11:47
-* Jan 9, SPO (TECH) - 14 tuned in, 1:05:00
-* Jan 16, Italy - 58 tuned in, 1:18:54
-* Jan 25, Greece - 234 tuned in, 1:16:24
-* Feb 7, Italy - 57 tuned in, 1:04:13
-* Feb 8, SPO (GROW), 27 tuned in, 1:18:21
-* Italy, March 7, 42 tuned in, 1:01:52
-* Italy, March 22, 70 tuned in, 1:32:46
-
-###
