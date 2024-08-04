@@ -6,7 +6,7 @@
 
 #### Project ID: 1000082
 
-#### Project Manager(s): Ricardo Burgos (10/23-02/24), Marcus Ubani (closing)
+#### Project Manager(s): Ricardo Burgos (10/23-02/24), Marcus Ubani (interim and closing)
 
 #### Project start: 10/2023
 
@@ -56,12 +56,6 @@ By now we are probably best known to foster communication amongst founders throu
 
 ### Adressing project's KPI
 
-The following table shows the tracking of our KPI for the Fund 10 proposal timeframe.&#x20;
-
-<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-02 at 20.18.52.png" alt=""><figcaption><p>Update of the KPI as of E02.2024</p></figcaption></figure>
-
-
-
 After&#x20;
 
 * renaming the Townhall meetings to Fireside Chats to reflect the more casual style
@@ -73,16 +67,50 @@ We followed the concept of a simple Marketing Flywheel:&#x20;
 * in this channel projects can talk about their projects to connect and expand their community
 * fortnightly Fireside Chats provide founders a platform to present and connect
 * YouTube recordings of these Fireside Chats manifest the spirit of an inclusive founder hub
-* Twitter/X Spaces help to spread the message of our endeavour to different language clusters
+* Twitter/X Spaces help to spread the message of our endeavour to different (language) clusters
 * Reposts of recordings in YT and Twitter/X endorse what we do and onboard new users to Discord
+
+
+
+### Key achievements (in particular around collaboration and engagement)
+
+#### Achievements Collaboration
+
+Through collaboration with projects who have participated in our fireside chats we were able to create a NFT X-mas calendar giveaway series.
+
+Outreach to members of IOG, Cardano Foundation and EMURGO is generally easy and does help especially for orientation and support within the ecosystem. For example did we receive support during our German Twitter Spaces from members of the Foundation as individuals with views of their own. We are very thankful for this personal engagement.
+
+We collaborated with now-established projects like Gamechanger and Xerberus, supporting them in laying foundational work during pivotal or early-stage phases. This included discussing UX, marketing, and regulatory affairs like MiCA.
+
+Outreaching to key influencers in of Cardano led to the initiation of the #CardanoGives Campaign; the attempt to create a global donation framework through Cardano.
+
+
+
+#### Achievments Engagement
+
+The following table shows the tracking of our KPI for the Fund 10 proposal timeframe.
+
+<figure><img src="../../../.gitbook/assets/Screenshot 2024-03-02 at 20.18.52.png" alt=""><figcaption><p>Update of the KPI as of E02.2024</p></figcaption></figure>
 
 Given the difficult market conditions, the growth of the community is noticeable and is reflected in the KPI. We highlighted those values in "green" (column "Goal") which were met according to the planning when submitting the proposal.&#x20;
 
-In the case of the number of participants in the Zoom calls, we didn't quite reach the target value. The team is continuously evaluating ideas in order to increase the interest of the community and their participation in our online events. However, the feedback we receive from our guests&#x20;
+In the case of the number of participants in the Zoom calls, we didn't quite reach the target value. The team is continuously evaluating ideas in order to increase the interest of the community and their participation in our online events. However, the feedback we receive from our guests is positive and assessing our meetings as founder-valuable.
 
 Main area of focus going forward is the usage of Discord and the engagement there. As reflected in the numbers, we did not reach the desired level of activity there.
 
 Collaborations between founders and people wanting to learn about the different projects will be key to continue developing our community in upcoming months.&#x20;
+
+#### Key learnings
+
+Projects who visited our Fireside chats are very open to support us with their NFTs so we can use them as giveaways for the community. This increases the visibilty of the projects, enables community members to engage with new topics and increases our following..
+
+Reaching out to Community Managers of  IOG and Cardano Foundation works usually well. Especially the more experienced staff is working as transparent as legal allows and is ready to assist Cardano oriented projects.
+
+Influencers have proven to be less reliable partners when it comes to keeping promises or invitations. The opportunistic selection is very obvious here. Obviously this doesn't apply to all influencers, but when it comes to inluencer bookings we see a 50:50 chance of uncommented no-show, while projects/founders almost always show up.
+
+The broader community is best engaged with lighthearted content and giveaways in a TL;DR format. European-related founders seem to enjoy and immerse themselves in the conversation even if it takes longer, while US founders tend to have tighter schedules and withdraw themselves from the conversation once their topic has been discussed.
+
+We also observed shifts in priorities within our team, with some members using the name of the European Cardano Community as a shell to promote their own endeavors while decreasing their contributions to our collective work.
 
 ### Overview of inflows and outflows by category
 
