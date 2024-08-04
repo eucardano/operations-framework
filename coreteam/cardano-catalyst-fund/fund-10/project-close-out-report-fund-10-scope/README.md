@@ -84,7 +84,7 @@ We collaborated with now-established projects like Gamechanger and Xerberus, sup
 
 Outreaching to key influencers in of Cardano led to the initiation of the #CardanoGives Campaign; the attempt to create a global donation framework through Cardano.
 
-
+We created Twitter/X spaces  to promote small Stakepools, from which a monthly disussion around SPO related things derived "Intentionally Random". Two of these pools have grown by now to  respectable and profitable sizes of 10-20mio ADA. We assume our collaboration contributed/s to their growth.
 
 #### Achievments Engagement
 
@@ -100,7 +100,7 @@ Main area of focus going forward is the usage of Discord and the engagement ther
 
 Collaborations between founders and people wanting to learn about the different projects will be key to continue developing our community in upcoming months.&#x20;
 
-#### Key learnings
+### Key learnings
 
 Projects who visited our Fireside chats are very open to support us with their NFTs so we can use them as giveaways for the community. This increases the visibilty of the projects, enables community members to engage with new topics and increases our following..
 
@@ -111,6 +111,28 @@ Influencers have proven to be less reliable partners when it comes to keeping pr
 The broader community is best engaged with lighthearted content and giveaways in a TL;DR format. European-related founders seem to enjoy and immerse themselves in the conversation even if it takes longer, while US founders tend to have tighter schedules and withdraw themselves from the conversation once their topic has been discussed.
 
 We also observed shifts in priorities within our team, with some members using the name of the European Cardano Community as a shell to promote their own endeavors while decreasing their contributions to our collective work.
+
+### Next steps for the product or service developed
+
+We have created a spot where founders meet and talk casually about their projects and what moves them, which leaves us proudly humbled to be part of our team and the whole movement around blockchain, especially within Cardano.\
+It's the coming together, the sharing of dreams and knowledge, that truly sparks joy in our hearts.
+
+We're now setting our sights on making in-person events and our Discord a buzzing place of connection and planning more collaborations that remind us of the vibrant gatherings back home. The insights from our financial tracking and all those digital get-togethers are our guiding stars for the journey ahead.
+
+### Final thoughts
+
+Huge thanks to our Cardano family! Even though the market has been like a rollercoaster, your spirit and support have really shined, helping our community blossom. \
+We stumbled a bit to meet our Zoom and Discord goals to the fullest, but seeing so many of you jump into our YouTube events and X-Spaces always feels like a warm homecoming. \
+
+
+So, here's a big shout out to you, our Cardano community, for being such an incredible force. Thanks a million for riding this wave with us. Let's keep this spirit alive and kick some goals together!
+
+\
+Your sincerely, \
+\
+
+
+The Admin Team of @EUCardano&#x20;
 
 ### Overview of inflows and outflows by category
 
@@ -181,20 +203,4 @@ For easier access, see also this list:
 * Italy, March 7, 42 tuned in, 1:01:52
 * Italy, March 22, 70 tuned in, 1:32:46
 
-### Summary and THANK you #CardanoCommunity
-
-Huge thanks to our Cardano family! Even though the market has been like a rollercoaster, your spirit and support have really shined, helping our community blossom. \
-We stumbled a bit to meet our Zoom and Discord goals to the fullest, but seeing so many of you jump into our YouTube events and X-Spaces always feels like a warm homecoming. \
-We have created a spot where founders meet and talk casually about their projects and what moves them, which leaves us proudly humbled to be part of our team and the whole movement around blockchain, especially within Cardano.\
-It's the coming together, the sharing of dreams and knowledge, that truly sparks joy in our hearts.
-
-We're now setting our sights on making in-person events and our Discord a buzzing place of connection and planning more collaborations that remind us of the vibrant gatherings back home. The insights from our financial tracking and all those digital get-togethers are our guiding stars for the journey ahead.
-
-So, here's a big shout out to you, our Cardano community, for being such an incredible force. Thanks a million for riding this wave with us. Let's keep this spirit alive and kick some goals together!
-
-\
-Your sincerely, \
-\
-
-
-The Admin Team of @EUCardano&#x20;
+###
