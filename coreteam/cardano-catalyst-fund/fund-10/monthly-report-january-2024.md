@@ -26,49 +26,32 @@
 
 {% embed url="https://www.youtube.com/watch?v=Oud5qqDuAms" %}
 
-T\
+## X-Spaces&#x20;
 
+#### SPO (TECH), Jan 9
 
+20 tuned in, 1:04:56&#x20;
 
-\
+[https://twitter.com/i/spaces/1ZkJzjzbNzeJv](https://twitter.com/i/spaces/1ZkJzjzbNzeJv)
 
+#### Italy, Jan 15
 
-SPO (TECH), Jan 9
+61 tuned in, 1:18:56&#x20;
 
-\
+[https://twitter.com/i/spaces/1BRKjPopANwJw](https://twitter.com/i/spaces/1BRKjPopANwJw)
 
+#### Greece, Jan 25
 
-20 tuned in, 1:04:56 [https://twitter.com/i/spaces/1ZkJzjzbNzeJv](https://twitter.com/i/spaces/1ZkJzjzbNzeJv)
+329 tuned in, 1:46:16&#x20;
 
-Italy, Jan 15
+[https://twitter.com/i/spaces/1yoJMwmPQkzKQ](https://twitter.com/i/spaces/1yoJMwmPQkzKQ)witter&#x20;
 
-\
+## KPI Updates
 
-
-61 tuned in, 1:18:56 [https://twitter.com/i/spaces/1BRKjPopANwJw](https://twitter.com/i/spaces/1BRKjPopANwJw)
-
-Greece, Jan 25
-
-\
-
-
-329 tuned in, 1:46:16 [https://twitter.com/i/spaces/1yoJMwmPQkzKQ](https://twitter.com/i/spaces/1yoJMwmPQkzKQ)witter&#x20;
-
-KPI Updates
-
-<figure><img src="../../.gitbook/assets/2401-KPI.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2401-KPI (1).jpg" alt=""><figcaption></figcaption></figure>
 
 * Increase in X-users up to approx. 3500 followers
-* 6 additional projects have created their project area in Discord
-* Users in Discord: 396
+* 3 additional projects have created their project area in Discord
+* Users in Discord: 398
 
-## Summary
-
-* Links to the YouTube recordings -> done
-* PDF download of the published EU Town Hall website -> done
-* PDF showing the documentation of the MultiSig wallet setup + PDF evidence of first transactions signed by multiple team members -> done
-* PDF summarizing the merchandise and digital assets give aways (incl. receving addresses of the winners)  -> purchase documented, raffles and distribution documentation in progress\
-  (Note: no additional merchandise was purchased in Nov 2023)
-* PDF showing the progress report email provided to the challenge team -> done (i.e. this page)
-* Links to the X-spaces hosted and recorded -> done
-
+##
