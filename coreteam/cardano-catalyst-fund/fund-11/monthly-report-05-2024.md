@@ -1,14 +1,13 @@
-# 🛫 Monthly Report - 04/2024
+# 🛫 Monthly Report - 05/2024
 
 
 
 {% hint style="info" %}
-**Link to March's Timesheet & Payment Receipt**
-
-[https://docs.google.com/spreadsheets/d/1C98gaRhgkghrAsYugu-O7f40Ng1Z1TerIC8ycBGE\_wo/edit#gid=1916200438](https://docs.google.com/spreadsheets/d/1C98gaRhgkghrAsYugu-O7f40Ng1Z1TerIC8ycBGE\_wo/edit#gid=1916200438)\
+**Link to May's Timesheet & Payment Receipt**\
+[https://docs.google.com/spreadsheets/d/1C98gaRhgkghrAsYugu-O7f40Ng1Z1TerIC8ycBGE\_wo/edit?gid=693234161#gid=693234161](https://docs.google.com/spreadsheets/d/1C98gaRhgkghrAsYugu-O7f40Ng1Z1TerIC8ycBGE\_wo/edit?gid=693234161#gid=693234161)\
 \
-**Link to Milestone 2**\
-[https://github.com/orgs/eucardano/projects/8/views/4](https://github.com/orgs/eucardano/projects/8/views/4)
+**Link to Milestone 3**\
+[https://github.com/orgs/eucardano/projects/8/views/4?sliceBy%5Bvalue%5D=F11+-+Milestone+3](https://github.com/orgs/eucardano/projects/8/views/4?sliceBy%5Bvalue%5D=F11+-+Milestone+3)
 
 **Link to Statistics** \
 [https://docs.google.com/spreadsheets/d/1C98gaRhgkghrAsYugu-O7f40Ng1Z1TerIC8ycBGE\_wo/edit#gid=689961644](https://docs.google.com/spreadsheets/d/1C98gaRhgkghrAsYugu-O7f40Ng1Z1TerIC8ycBGE\_wo/edit#gid=689961644)
@@ -22,9 +21,9 @@
 
 ### YouTube Video References:
 
-{% embed url="https://youtu.be/vquo-v4mSDQ" %}
+{% embed url="https://youtu.be/Mgg3rY2P3KU" %}
 
-{% embed url="https://youtu.be/_xQMTMAQSJs" %}
+{% embed url="https://youtu.be/X3EC0_P_mV4" %}
 
 ## KPI Updates
 
@@ -51,8 +50,7 @@ X-Spaces
 
 
 **Greek #1**\
-April 1, 404 tuned in, 2:36:41\
-[https://twitter.com/i/spaces/1MYxNoADpPZKw](https://twitter.com/i/spaces/1MYxNoADpPZKw)\
+May 6, 288 tuned in, 3:04:05 [https://twitter.com/i/spaces/1DXGyjYdEwRJM](https://twitter.com/i/spaces/1DXGyjYdEwRJM)\
 
 
 ####

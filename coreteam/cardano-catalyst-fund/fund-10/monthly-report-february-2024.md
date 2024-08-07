@@ -30,6 +30,8 @@ description: (i.e. for a PDF report export)
 
 <figure><img src="../../.gitbook/assets/2403-ECC-KPI-statement.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/2401-KPI (4).jpg" alt=""><figcaption></figcaption></figure>
+
 * Increase in X-users up to approx. 3500 followers
 * 6 additional projects have created their project area in Discord
 * Users in Discord: 396

@@ -1,7 +1,5 @@
 # 🛫 Monthly Report - January 2024
 
-
-
 {% hint style="info" %}
 **Link to January's Timesheet**
 
@@ -25,6 +23,36 @@
 {% embed url="https://www.youtube.com/watch?v=Uf36z47NzKw&t=62s" %}
 
 {% embed url="https://www.youtube.com/watch?v=Oud5qqDuAms" %}
+
+## KPI-Updates
+
+<figure><img src="../../.gitbook/assets/2401-KPI (4).jpg" alt=""><figcaption></figcaption></figure>
+
+* Increase in X-users up to approx. 3500 followers
+* 3 additional projects have created their project area in Discord
+* Users in Discord: 396
+
+## X-Spaces
+
+#### SPO (TECH), Jan 9
+
+20 tuned in, 1:04:56&#x20;
+
+[https://twitter.com/i/spaces/1ZkJzjzbNzeJv](https://twitter.com/i/spaces/1ZkJzjzbNzeJv)
+
+#### Italy, Jan 15
+
+61 tuned in, 1:18:56&#x20;
+
+[https://twitter.com/i/spaces/1BRKjPopANwJw](https://twitter.com/i/spaces/1BRKjPopANwJw)
+
+#### Greece, Jan 25
+
+329 tuned in, 1:46:16&#x20;
+
+[https://twitter.com/i/spaces/1yoJMwmPQkzKQ](https://twitter.com/i/spaces/1yoJMwmPQkzKQ)
+
+## Summary
 
 ## X-Spaces&#x20;
 
