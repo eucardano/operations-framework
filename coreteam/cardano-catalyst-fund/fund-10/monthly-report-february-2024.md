@@ -4,8 +4,6 @@ description: (i.e. for a PDF report export)
 
 # 🛫 Monthly Report - February 2024
 
-
-
 {% hint style="info" %}
 **Link to February's Timesheet**
 
@@ -30,11 +28,11 @@ description: (i.e. for a PDF report export)
 
 ## KPI Updates
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-12-09 at 05.28.58.png" alt=""><figcaption><p>Update per Nov 30th 2023</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2403-ECC-KPI-statement.png" alt=""><figcaption></figcaption></figure>
 
 * Increase in X-users up to approx. 3500 followers
 * 6 additional projects have created their project area in Discord
-* Users in Discord: 439
+* Users in Discord: 396
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-09 at 05.22.19.png" alt="" width="375"><figcaption><p>New projects added in Nov 2023</p></figcaption></figure>
 
@@ -55,3 +53,4 @@ description: (i.e. for a PDF report export)
 Feb 8 27 tuned in, 1:18:21
 
 {% embed url="https://twitter.com/i/spaces/1OyKAWlnWjDJb" %}
+

@@ -26,6 +26,42 @@
 
 {% embed url="https://www.youtube.com/watch?v=Oud5qqDuAms" %}
 
+T\
+
+
+
+\
+
+
+SPO (TECH), Jan 9
+
+\
+
+
+20 tuned in, 1:04:56 [https://twitter.com/i/spaces/1ZkJzjzbNzeJv](https://twitter.com/i/spaces/1ZkJzjzbNzeJv)
+
+Italy, Jan 15
+
+\
+
+
+61 tuned in, 1:18:56 [https://twitter.com/i/spaces/1BRKjPopANwJw](https://twitter.com/i/spaces/1BRKjPopANwJw)
+
+Greece, Jan 25
+
+\
+
+
+329 tuned in, 1:46:16 [https://twitter.com/i/spaces/1yoJMwmPQkzKQ](https://twitter.com/i/spaces/1yoJMwmPQkzKQ)witter&#x20;
+
+KPI Updates
+
+<figure><img src="../../.gitbook/assets/2401-KPI.jpg" alt=""><figcaption></figcaption></figure>
+
+* Increase in X-users up to approx. 3500 followers
+* 6 additional projects have created their project area in Discord
+* Users in Discord: 396
+
 ## Summary
 
 * Links to the YouTube recordings -> done
