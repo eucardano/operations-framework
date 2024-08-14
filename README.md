@@ -11,6 +11,7 @@ Please contribute, share, and expand on what you see.
 **Twitter/X:** https://x.com/eucardano  
 **YouTube:**   https://youtube.com/@eucardano  
 **Linkedln**   https://www.linkedin.com/company/europe-cardano-community/  
+**Zoom Registration** https://us06web.zoom.us/meeting/register/tZ0vcOmvrTgrHdCNi3AMKn-bnSroZV50eDCE#/registration  
 
 
 ## What to expect here
