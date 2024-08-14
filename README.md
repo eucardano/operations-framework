@@ -4,6 +4,14 @@
 This Repository is our contribution to the Cardano Ecosystem and beyond.
 Please contribute, share, and expand on what you see. 
 
+
+## Connect with us, we want to hear from you
+
+**Twitter/X:** https://x.com/eucardano  
+**YouTube:**   https://youtube.com/@eucardano  
+**Discord:**   https://discord.gg/nSnPMNwxrJ  
+
+
 ## What to expect here
 
 ### Planning and Execution in Public
@@ -20,9 +28,11 @@ The European Cardano Community received funds for its operation during Cardano C
 Thus we are documenting our workload and milestones here.
 
 ### Fireside chat / EU Town Hall slides
-We host regular Fireside Chats / Town Halls every second Thursday. While we record those events and
-publish the videos on YouTube, we will also add a copy of the slides we prepared for the presentation
+We host regular Fireside Chats / Town Halls every second Thursday. 
+Feel invited to join as a speaker, too 👉[Learn more](https://github.com/eucardano/brandassets/blob/main/templates/yt-description-socials.md)  
+While we record those events and publish the videos on YouTube, we will also add a copy of the slides we prepared for the presentation
 here for you to look over and as a quick reference.
+
 
 ### Software or scripts
 We may write simple scripts to automate tasks. In case those may be useful to somebody else, we
