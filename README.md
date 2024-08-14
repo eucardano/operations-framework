@@ -7,9 +7,10 @@ Please contribute, share, and expand on what you see.
 
 ## Connect with us, we want to hear from you
 
+**Discord:**   https://discord.gg/nSnPMNwxrJ  
 **Twitter/X:** https://x.com/eucardano  
 **YouTube:**   https://youtube.com/@eucardano  
-**Discord:**   https://discord.gg/nSnPMNwxrJ  
+**Linkedln**   https://www.linkedin.com/company/europe-cardano-community/  
 
 
 ## What to expect here
