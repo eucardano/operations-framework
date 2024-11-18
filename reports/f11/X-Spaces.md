@@ -46,3 +46,25 @@ https://twitter.com/i/spaces/1DXGyjYdEwRJM
 ### Greece, June 3
 196 tuned in, 1:49:24
 https://x.com/i/spaces/1OdKrjVdnkVKX
+
+### Greece, July 1
+164 tuned in, 1:47:56
+https://x.com/i/spaces/1YqKDgZjDWvxV
+
+### France, August 30
+674 tuned in, 1:14:12
+https://x.com/i/spaces/1MnxnDboLgmGO
+
+### Greece, September 2
+1100 tuned in, 1:41:55
+https://x.com/i/spaces/1YqKDgZjDWvxV
+
+### Germany, October 22
+220 tuned in, 1:14:49
+https://x.com/i/spaces/1yoJMyqmLbjJQ
+
+### Germany, November 19
+??? tuned in, ?:??:??
+https://x.com/i/spaces/1rmxPoOQjQQJN
+
+
