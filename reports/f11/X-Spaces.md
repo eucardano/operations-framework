@@ -64,7 +64,6 @@ https://x.com/i/spaces/1YqKDgZjDWvxV
 https://x.com/i/spaces/1yoJMyqmLbjJQ
 
 ### Germany, November 19
-??? tuned in, ?:??:??
+125 tuned in, 1:44:44
 https://x.com/i/spaces/1rmxPoOQjQQJN
-
 
