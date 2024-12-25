@@ -67,3 +67,11 @@ https://x.com/i/spaces/1yoJMyqmLbjJQ
 125 tuned in, 1:44:44
 https://x.com/i/spaces/1rmxPoOQjQQJN
 
+
+
+### Germany, December 18
+
+31 tuned in, 0:55
+
+https://x.com/i/spaces/1YqKDkEzebexV/peek
+
