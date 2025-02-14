@@ -68,3 +68,123 @@
 
 ### Compliance with the EU AI Act
 - **Description:** Stay informed about the requirements and regulations introduced by the EU AI Act, particularly those concerning high-risk AI systems. Ensure that AI operations, especially those involving data processing and decision-making, are transparent, traceable, and under human oversight.
+
+
+
+## Mining and Taxes
+
+# Tax Treatment of Crypto Based on Business Structure
+
+Below is a detailed comparison of tax implications for different business structures regarding **crypto staking and mining**.  
+For explanation, **tax transparency** means whether the entity's profits and losses are directly included in the **owner's** tax return (transparent) or **separately taxed** at the business level (non-transparent).  
+
+## Tax Table  
+
+<!-- Start of CSS Styling -->
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th, td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        vertical-align: top; /* Ensures top-aligned text */
+    }
+    th {
+        background-color: #f2f2f2;
+        text-align: left;
+    }
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+</style>
+<!-- End of CSS Styling -->
+
+<!-- Start of Table -->
+<table>
+    <thead>
+        <tr>
+            <th>Criterion</th>
+            <th>Sole Proprietor</th>
+            <th>Partnership (GbR)</th>
+            <th>General Partnership (OHG)</th>
+            <th>Limited Partnership (KG)</th>
+            <th>Corporation (UG/GmbH)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Separation of Private and Business Accounts</strong></td>
+            <td>Required for tax clarity.</td>
+            <td>Important to distinguish private and business transactions.</td>
+            <td>Same as GbR.</td>
+            <td>Same as GbR.</td>
+            <td>Strict separation required, as GmbH/UG is a separate legal entity.</td>
+        </tr>
+        <tr>
+            <td><strong>Tax Transparency</strong></td>
+            <td>
+                Yes, profits/losses go directly into the personal tax return.  
+                <br><strong>Example:</strong> Max operates a validator node as a sole proprietor, earning €10,000 yearly. This income is declared in his personal tax return.
+            </td>
+            <td>
+                Yes, profits/losses are distributed among partners and taxed individually.  
+                <br><strong>Example:</strong> Two partners operate a crypto platform as a GbR, making €50,000 in profit. Each declares their share in their tax return.
+            </td>
+            <td>
+                Same as GbR.  
+                <br><strong>Example:</strong> An OHG earns €100,000 from staking. Profits are split among partners and taxed as personal income.
+            </td>
+            <td>
+                Profits are split between general and limited partners.  
+                <br><strong>Example:</strong> In a KG, general partners are taxed like sole proprietors. Limited partners may be taxed only on distributed profits.
+            </td>
+            <td>
+                No, profits are subject to corporate tax and possibly trade tax.  
+                <br><strong>Example:</strong> A GmbH earns €200,000 from staking. The profit is taxed at 15% corporate tax plus trade tax. Later, distributing profits to shareholders incurs an additional 25% withholding tax.
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Taxation of Staking Rewards</strong></td>
+            <td>
+                Taxable above €256 per year, based on the inflow principle. Staking and mining rewards are taxed at market value upon receipt.  
+                <br><strong>Example:</strong> Max receives 5 ADA on January 1, 2024, each worth €1. He declares €5 as taxable income.
+            </td>
+            <td>Same as Sole Proprietor.</td>
+            <td>Same as GbR.</td>
+            <td>Same as GbR.</td>
+            <td>
+                Always taxable, regardless of amount, based on inflow principle.  
+                <br><strong>Second Taxation:</strong> If a GmbH later sells the ADA, capital gains tax applies again.
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Recommendations</strong></td>
+            <td>
+                - Keep private and business accounts separate.  
+                - Monitor yearly staking rewards (keep under €256 if possible).  
+                - Consult a tax advisor if staking volume increases.
+            </td>
+            <td>
+                - Ensure profit-sharing agreements are clear.  
+                - Maintain separate records for personal and business crypto activities.  
+                - Avoid unnecessary complications by using a formalized GbR.
+            </td>
+            <td>
+                - Follow the same principles as GbR.  
+                - Be aware of increased liability for OHG partners.
+            </td>
+            <td>
+                - Ensure correct documentation of profit distribution.  
+                - Limited partners should be aware of how profits are taxed.
+            </td>
+            <td>
+                - Consider a corporation only for large-scale crypto operations.  
+                - Be mindful of double taxation (corporate tax + dividends).  
+                - Consult a specialist before transitioning to a GmbH.
+            </td>
+        </tr>
+    </tbody>
+</table>
+<!-- End of Table -->
