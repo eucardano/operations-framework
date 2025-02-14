@@ -75,8 +75,12 @@
 
 # Tax Treatment of Crypto Based on Business Structure
 
-Below is a detailed comparison of tax implications for different business structures regarding **crypto staking and mining**.  
+Below is a detailed comparison of tax implications for different business structures regarding **crypto staking and mining**. 
+ 
 For explanation, **tax transparency** means whether the entity's profits and losses are directly included in the **owner's** tax return (transparent) or **separately taxed** at the business level (non-transparent).  
+
+This table is far from complete, but it should provide you with a first guideline in choosing your business formation, as well as a good foundation for your consultation with a tax advisor or notary.  
+  
 
 ## Tax Table  
 
