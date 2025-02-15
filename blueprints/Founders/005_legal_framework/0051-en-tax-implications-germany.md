@@ -123,6 +123,14 @@ The most common legal forms can be grouped into three main categories:
 
 ---
 
+
+
+
+
+
+
+
+
 ## 1. Separation of Private and Business Accounts
 
 For tax classification, it is crucial to strictly separate private and business wallets (and fiat accounts). Without this separation, you risk problems during audits and potential estimated additions to your taxable income.
