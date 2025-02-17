@@ -204,7 +204,7 @@ Whenever multiple individuals collaborate on a Project Catalyst proposal (or any
    - This agreement shall be governed by the laws of _____.
 
 8. **Hash Signatures in form of a 1 ADA transaction (will be reimbursed), stating in the Metadata:
-   `I, [Name], agree to the Wallet Agreement on [Datum]**  
+   `I, [Name], agree to the Wallet Agreement on [Date]**  
    - Partner A: _____ (Date: _____) TxHash: _____ ([example paste the TxHash](https://preprod.cardanoscan.io/transaction/8d88aac6e2b80bb52f233306d14bdc66d1f26856cc6dec242d12bb45ca24c419))
    - Partner B: _____ (Date: _____) TxHash: _____ 
    - Partner C: _____ (Date: _____) TxHash: _____
