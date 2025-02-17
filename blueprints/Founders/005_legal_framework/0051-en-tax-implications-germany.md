@@ -57,27 +57,10 @@ At the beginning, you will find an **introductory cheatsheet** without extensive
    - If a service (e.g., consulting, software development) is paid in crypto, from a tax perspective it is **treated the same as payment in fiat**.
    - The value at receipt is the **market price** at the time of crediting and is considered business income (income tax/corporate income tax + possibly VAT).
 
-9. From a purely tax perspective, **Project Catalyst** is a special case because the funds do not come from a traditional company or a governmental entity, but rather from the Cardano treasury or a decentralized network (IOG, in this case, is more like an initiator and developer, not necessarily the “paying party” in the usual sense).
+9. Make sure to read our Project Catalyst and GbR example [here](./0053-en-gbr-project-catalyst.md)
 
-   In practice, however, it is often treated **as though you are providing a service or executing a project** for an (extra-European) entity. In Germany, the following typically applies to such income:
+   
 
-   1. **Income Tax/Operating Income**
-      - If it represents a business activity for you (e.g., you develop a software solution, a prototype, marketing measures, etc. and you get paid for it), these earnings must be reported as **business income** (for commercial/self-employed activities) or **other income** (for private activities).
-      - If you are already operating as a business person/freelancer, such Catalyst payments are included in your regular income-expense statement.
-
-   2. **Value Added Tax (VAT)**
-      - In cross-border services within or outside the EU, the question is: **“Where is the place of supply?”**
-      - As a rule, for B2B services provided to a client located in a third country (the question here: “Is IOG based in the USA?”):
-        - The place of supply (simplified) is where the **service recipient** is established. This means **no German VAT applies** (no tax jurisdiction in Germany) if you truly deliver to a “company” located in a third country.
-      - Typically, you would note it in the German VAT return as a **non-taxable service** (line for services to third countries).
-      - If there is *no* clearly defined “client entity” and you simply receive “funding from the treasury,” the situation becomes even less transparent. In practice, it is often treated as a **non-taxable service**, but the tax office may ask questions.
-      - It is definitely worth having a brief meeting with your tax advisor to determine what to do in your specific case (e.g., project scope, recipient details, etc.).
-
-   3. **Summary**
-      - For income tax purposes, it is **income** (commercial/self-employed or other).
-      - **VAT** usually does **not** arise in Germany if you assume that the “service recipient” is located in a **non-EU country** (third country) and it is a service.
-      - However, decentralized projects like Cardano Catalyst are complicated because there is no “classic” client.
-      - In practice, it is often treated **like a cross-border B2B service** and thus **VAT-exempt** (or not taxable in Germany). However, you should clearly document **why** you believe this to be the case (e.g., details about IOG/Project Catalyst, project description, source of funding, etc.).
 
 ---
 

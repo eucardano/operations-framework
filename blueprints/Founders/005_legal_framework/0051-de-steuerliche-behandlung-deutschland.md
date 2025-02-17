@@ -42,48 +42,20 @@ Zu Beginn findet Ihr ein **einleitendes Cheatsheet** ohne große Beispiele.
 ### **Definitionen und einleitende Hinweise**
 
 1. **Haltedauer (1 Jahr)**: Gilt nur für **private** Kryptowährungen. Bei gewerblicher Nutzung entfällt die steuerfreie Veräußerung nach 1 Jahr.  
-
 2. **Freigrenze (256 EUR)** bezieht sich in der Regel auf **private** Staking-/Mining-Aktivitäten. Sobald eine Tätigkeit als gewerblich eingestuft wird, greift diese Freigrenze nicht mehr.  
-
 3. **Steuerliche Transparenz** bedeutet, dass Gewinne und Verluste der Gesellschaft direkt in der Steuererklärung der **Gesellschafter*innen** oder Inhaber*innen auftauchen (transparente Besteuerung). Bei nicht-transparenter Besteuerung werden die Gewinne zuerst auf Ebene der Gesellschaft besteuert.  
-
 4. **Trennung privater und gewerblicher Freigrenzen**  
    Die **256-EUR-Freigrenze** (jährlich) gilt normalerweise für **private** Staking-/Mining-Einnahmen. Sobald eine Tätigkeit jedoch gewerblich eingestuft wird (z. B. bei dauerhaftem Betreiben eines Staking-Pools), **entfällt** diese Freigrenze. Innerhalb derselben Person (Einzelunternehmer oder Gesellschafter) ist es oft schwierig, private und betriebliche Anteile eindeutig zu trennen. Daher sind eine saubere **Buchführung** und **Dokumentation** unbedingt erforderlich, um bei einer eventuellen Prüfung durch das Finanzamt zu belegen, welche Rewards privat und welche gewerblich angefallen sind.  
-
 5. **Zweite Besteuerung bei Kapitalgesellschaften:** Gewinne werden auf Ebene der Kapitalgesellschaft (Körperschaftsteuer + Gewerbesteuer) besteuert. Bei einer Ausschüttung an Gesellschafter fällt zusätzlich die **Kapitalertragsteuer** (25 % + Soli + ggf. Kirchensteuer) an.  
-
 6. **Holding-Modelle**  
    **Doppelstöckige UGs oder GmbHs** können bei Ausschüttungen zu Steuervorteilen führen. Beispiel: Wenn eine Holding-Gesellschaft (Obergesellschaft) Anteile an einer operativen UG/GmbH hält, kann eine Ausschüttung an die Muttergesellschaft **teilweise** steuerfrei sein (Stichwort: § 8b KStG). Eine anschließende Ausschüttung an private Personen bleibt allerdings erneut steuerpflichtig (Kapitalertragsteuer). Solche Konstruktionen sollten **stets** mit fachkundiger **Steuerberatung** geplant werden.
-
 7. **NFT-Verkäufe**:  
-
    - *Privat*: Bei gelegentlichem Verkauf selbst gehaltener NFTs können ggf. dieselben Spekulationsfristen wie bei anderen privaten Krypto-Assets gelten (ein Jahr).  
    - *Gewerblich*: Wer regelmäßig NFTs mintet und verkauft (z. B. als Künstler*in mit dauerhafter Gewinnerzielungsabsicht), erzielt i. d. R. gewerbliche Einkünfte.  
-
 8. **Entlohnung in ADA (oder anderen Tokens)**:  
-
    - Wird eine Dienstleistung (z. B. Beratung, Softwareentwicklung) in Krypto entlohnt, gilt das steuerlich **genauso wie eine Entlohnung in Fiat**.  
    - Zuflusswert ist der **Marktpreis** zum Zeitpunkt der Gutschrift und gilt als Betriebseinnahme (ESt/KSt + ggf. USt).
-
-9. Aus rein steuerlicher Sicht ist **Project Catalyst** ein Sonderfall, weil die Gelder weder von einer klassischen Firma noch von einer staatlichen Stelle kommen, sondern aus dem Cardano-Treasury bzw. einem dezentral organisierten Netzwerk (IOG selbst ist dabei eher Initiator und Entwickler, nicht unbedingt der „Zahlende“ wie bei einem klassischen Auftraggeber).
-
-   Trotzdem wird das in der Praxis oft so behandelt, **als würdest du eine Dienstleistung oder ein Projekt** für eine (außereuropäische) Entität erbringen. In Deutschland gilt bei solchen Einkünften typischerweise:
-
-   1. **Einkommensteuer/Betriebseinnahmen**
-      - Handelt es sich für dich um eine betriebliche Tätigkeit (z. B. du entwickelst eine Software-Lösung, einen Prototyp, Marketingmaßnahmen etc. und wirst dafür bezahlt), sind diese Einkünfte als **Betriebseinnahmen**(bei gewerblichen/selbstständigen Einkünften) oder **sonstige Einkünfte** (bei privater Tätigkeit) zu erfassen.
-      - Bist du bereits als Gewerbetreibender/Freiberufler aktiv, gehen solche Catalyst-Zahlungen in deine normale Einnahmen-Überschuss-Rechnung ein.
-   2. **Umsatzsteuer**
-      - Bei grenzüberschreitenden Dienstleistungen innerhalb oder außerhalb der EU ist die Frage: **„Wo liegt der Ort der sonstigen Leistung?“**
-      - Grundsätzlich gilt bei B2B-Leistungen an einen im Drittland ansässigen Auftraggeber (hier die Frage: „Ist IOG in den USA ansässig?“):
-        - Der Leistungsort wäre (vereinfacht gesprochen) dort, wo der **Leistungsempfänger** seinen Sitz hat. Das bedeutet, **in Deutschland fällt keine Umsatzsteuer an** (keine deutsche Steuerbarkeit), sofern du wirklich an eine im Drittland ansässige „Firma“ lieferst.
-      - Man vermerkt das in der deutschen Umsatzsteuer-Voranmeldung in der Regel als **nicht steuerbare Leistung**(Zeile für Leistungen an Drittländer).
-      - Wenn es jedoch *keine* klar definierte „Auftraggeber-Entität“ gibt und du schlicht „Funding aus der Treasury“ erhältst, wird es noch undurchsichtiger. Praktisch wird es oft wie eine **nicht steuerbare Leistung** behandelt – aber das Finanzamt kann Fragen stellen.
-      - Definitiv lohnt sich ein kurzer Rücksprache-Termin mit deiner Steuerberaterin/deinem Steuerberater, wie in deinem speziellen Fall (z. B. Projektumfang, Meldedaten des Empfängers etc.) zu verfahren ist.
-   3. **Zusammenfassend**
-      - Einkommensteuerlich sind es **Einnahmen** (gewerblich/selbstständig oder sonstige Einkünfte).
-      - **Umsatzsteuer** fällt in Deutschland meist **nicht** an, wenn man unterstellt, dass der „Leistungsempfänger“ in einem **Nicht-EU-Land** (Drittland) sitzt und es sich um eine Dienstleistung handelt.
-      - Allerdings ist das Ganze bei dezentralen Projekten wie Cardano Catalyst kompliziert, weil es keinen „klassischen“ Auftraggeber gibt.
-      - In der Praxis wird es oft **wie eine Auslands-B2B-Leistung** behandelt und damit **umsatzsteuerfrei** (bzw. nicht steuerbar in Deutschland). Du solltest aber klar dokumentieren, **weshalb** du das so beurteilst (z. B. Angaben zu IOG/Project Catalyst, Projektbeschreibung, Herkunft des Budgets etc.).
+9. Lest auch unser Project Catalyst und GbR Beispiel [hier](./0053-en-gbr-project-catalyst.md)
 
 
 
@@ -91,7 +63,7 @@ Zu Beginn findet Ihr ein **einleitendes Cheatsheet** ohne große Beispiele.
 
 ## Cheatsheet
 
-Hier ein **komprimierter Überblick** über die wichtigsten Punkte. Ausführliche Details und Beispiele findest du in den Abschnitten darunter.
+Hier ein **komprimierter Überblick** über die wichtigsten Punkte. Ausführliche Details und Beispiele findet Ihr in den Abschnitten darunter.
 
 ### Übersichtstabelle
 
