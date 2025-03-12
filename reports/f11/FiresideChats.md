@@ -2,97 +2,141 @@
 
 A list of all the Fireside Chats/Town Halls hosted by the European Cardano Community
 
-## 2024
+---
+# 2025
+---
 
-Nov 25
+Mar 06/25
+### ECC Fireside Chat - IAMX, Begin Wallet, YASG 
 
-### ECC Fireside PitchFest
+---
 
-https://studio.youtube.com/video/FKeI6O0Wp-o/edit
+Feb 20/25
+### ECC Fireside Chat - PitchFest 2502
+https://www.youtube.com/watch?v=HlCo_WYBFMY
 
+Feb 06/25 
+### ECC Fireside Chat - Palm Economy, Promo Facie, Book.io
+https://www.youtube.com/watch?v=t7-6ESS7DWc&t=12s
 
+---
 
-Nov 10
+Jan 16/25
+### ECC PitchFest 25-01
+https://youtu.be/MjD8D0ZQBjY?si=Bh2xqUrz3bmcK0U1
+### ECC Fireside Chat - Supporting Founders, Governance and Collaboration through ECC + intersect EU Hub
+https://www.youtube.com/watch?v=oUQEhCQR8D0
 
+---
+
+Jan 09/25
+### ECC Fireside Chat - Mynth, Squeak, ADA handle
+https://www.youtube.com/watch?v=R6Gm-uvKJaU&t
+
+---
+
+# 2024
+---
+
+Dec 21/24
+### ECC PitchFest 24-12
+https://www.youtube.com/watch?v=qrPCX4bL09Y&t=3s
+### ECC Fireside Chat - Catalyst Discussion
+https://www.youtube.com/watch?v=S2A8u3Z6Bs4
+
+---
+
+Dec 08/24  
+#### ECC Fireside Chat - Landano, Iagon, Nesso
+https://youtu.be/VocdUTTWEsc?si=aYcBNrAuOUT-FpPp
+
+--- 
+
+Nov 25/24  
+### ECC Fireside PitchFest 2411
+https://youtu.be/FKeI6O0Wp-o?si=0zZoOwnGyr6DOk3k
+
+---
+
+Nov 10/24  
 ### ECC Fireside Chat - GenWealth Larissa.Health Storm Partners
-
 https://www.youtube.com/watch?v=wXtHuvY7vlI
 
-Oct 18
+---
 
+Oct 18/24  
 ### ECC Fireside Chat - Emurgo, Fida Finance
-
 https://www.youtube.com/watch?v=xIFSOW2Aw4M
 
-Sep 16
+---
 
+Sep 16/24  
 ### ECC Fireside Chat - AMA Africa for builders with Boaz
-
 https://www.youtube.com/watch?v=bK71RuRQq4o
 
-Sep 1
+---
 
+Sep 01/24  
 ### ECC Fireside Chat - Mazzanti Tokens, G.Vino NFT, blockpit - Crypto Taxes
-
 https://www.youtube.com/watch?v=S0j4jdfOsfg
 
-Aug 18
+---
 
+Aug 18/24  
 ### ECC Fireside Chat - Tempo, Lidonation, $Matiwinnetou
-
 https://www.youtube.com/watch?v=MnE7jB_yaZ0
 
-Aug 4
+---
 
+Aug 04/24  
 ### ECC Fireside Chat - Keystone Wallet, Digital Gold Ecosystem, Littlefish Foundation
-
 https://www.youtube.com/watch?v=OvXhueDe4Rk
 
-July 25 
+---
 
+July 25/24
 ### ECC Fireside Chat - Intentionally Random with Bjarne and Marcus 07/24
-
 https://www.youtube.com/watch?v=1KPpA-KWXWk
 
-July 21
+---
 
+July 21/24
 ### ECC Fireside Chat - Zengate, Global Fida, Lace
-
 https://www.youtube.com/watch?v=vyZyniAhJyI
 
-July 13
+---
 
+July 13/24
 ### ECC Fireside Chat - Marlowe, Rampy, DLT360
-
 https://www.youtube.com/watch?v=nM18ZyfMgZ8
 
-June 30
+---
 
+June 30/24
 ### ECC Cardano Catalyst Ideafest F12, 2024
-
 https://www.youtube.com/watch?v=Rg6XJvcefQQ
 
-June 22
+---
 
+June 22/24
 ### ECC Fireside Chat - ADA Axolotl, Harmonic Labs, M2tec
-
 https://www.youtube.com/watch?v=l4Fdaq-QWAg
 
+---
 
-May 9
-
+May 09/24
 ### Charli3, Mehen
-
 https://www.youtube.com/watch?v=Mgg3rY2P3KU
 
-April 11
+---
 
+April 11/24
 ### Arbiter, Mynth, Revuto, Cardano Thor
-
 https://www.youtube.com/watch?v=vquo-v4mSDQ
 
-March 28
+---
 
+March 28/24
 ### VyFinance/T-Minus-One, Cryptofluency, AdaExchange
 
 https://www.youtube.com/watch?v=haSlYRHsp3Y
@@ -100,46 +144,39 @@ https://www.youtube.com/watch?v=aTQIug17yy8
 
 https://www.youtube.com/watch?v=-vrQjvIuH-M
 
-March 14
+---
 
+March 14/24
 ### TxPipe, 45B, DLT360
-
 https://www.youtube.com/watch?v=KjON5IkPNoE
 
+---
 
-
-February 29
-
+February 29/24
 ### FluidTokens, SoundRig Music, AdaKonda
-
 https://www.youtube.com/watch?v=sCxZXrvmeT8
 
+---
 
-
-February 15
-
+February 15/24
 ### WildTangs, Adam Deam, MELD
-
 https://www.youtube.com/watch?v=0uLDWXsYolU
 
+---
 
-
-February 1
-
+February 01/24
 ### Emurgo Academy, Revuto
-
 https://www.youtube.com/watch?v=t07CZ8XQEoc
 
+---
 
-January 18
-
+January 18/24
 ### Landano, World Mobile, Farmer Nash
-
 https://www.youtube.com/watch?v=YKmKDPYUORk
 
-January 4
+---
 
+January 04/24
 ### TapTools, Financial Fox, Open Bank Project
-
 https://www.youtube.com/watch?v=R38bYzcLHYE
 
