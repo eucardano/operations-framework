@@ -12,7 +12,7 @@
 
  
 
-| **Revised KPI / Statement as per Q1 - Q2/2025**                 |    GOAL |    1 |       2 |       3 |       4 |       5 |    6 | COMMENT                                                      |
+| **Q1 - Q2/2025**                                                |    GOAL |    1 |       2 |       3 |       4 |       5 |    6 | COMMENT                                                      |
 | :-----------------------------------------------------------    | ------: | ---: | ------: | ------: | ------: | ------: | ---: | ------------------------------------------------------------ |
 | [Goal Nr. 1] Town Hall Zoom calls:  participants                |  **30** |      |         |         |         |         |      |            |
 | [Goal Nr. 2] Discord: unique human members/users                | **500** |    / | 450/476 | 476/489 |         |         |      |            |
@@ -28,7 +28,7 @@
 
  
 
-| **Revised KPI / Statement as per Q3 - Q4/2024**              |    GOAL |    7 |       8 |       9 |      10 |      11 |   12 | COMMENT                                                      |
+| **Q3 - Q4/2024**                                             |    GOAL |    7 |       8 |       9 |      10 |      11 |   12 | COMMENT                                                      |
 | :----------------------------------------------------------- | ------: | ---: | ------: | ------: | ------: | ------: | ---: | ------------------------------------------------------------ |
 | [Goal Nr. 1] Town Hall Zoom calls:  participants             |  **30** |   16 |         |         |         |         |      |                                                              |
 | [Goal Nr. 2] Discord: unique human members/users             | **500** |    / | 450/476 | 476/489 | 495/502 | 494/508 |      |                                                              |
@@ -39,7 +39,7 @@
 
  
 
-| **Revised KPI / Statement as per 03/2024**                   |    GOAL |    1 |    2 |    3 |    4 |    5 |    6 | COMMENT                                                      |
+| **as per 03/2024**                                           |    GOAL |    1 |    2 |    3 |    4 |    5 |    6 | COMMENT                                                      |
 | :----------------------------------------------------------- | ------: | ---: | ---: | ---: | ---: | ---: | ---: | ------------------------------------------------------------ |
 | [Goal Nr. 1] Increase the number of participants in our Town Hall Zoom calls |  **30** |      |   26 |   20 |   17 |   16 |   38 |                                                              |
 | [Goal Nr. 2] Increase the number of unique users (non-bots :)) in our Discord Server | **500** |      |  396 |  404 |  416 |  438 |  451 |                                                              |
