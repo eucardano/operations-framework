@@ -6,7 +6,25 @@
 
 
 
-### 2024 KPI tables Q1 - Q4
+## 2025 KPI tables Q1 - Q4
+
+
+
+ 
+
+| **Revised KPI / Statement as per Q1 - Q2/2025**                 |    GOAL |    1 |       2 |       3 |       4 |       5 |    6 | COMMENT                                                      |
+| :-----------------------------------------------------------    | ------: | ---: | ------: | ------: | ------: | ------: | ---: | ------------------------------------------------------------ |
+| [Goal Nr. 1] Town Hall Zoom calls:  participants                |  **30** |      |         |         |         |         |      |            |
+| [Goal Nr. 2] Discord: unique human members/users                | **500** |    / | 450/476 | 476/489 |         |         |      |            |
+| [Goal Nr. 3] Discord:daily active users                         |   **7** |      |         |         |         |         |      |            |
+| [Goal Nr. 4] XSpaces: participants in the local language spaces |  **50** |      |         |         |         |         |      |            |
+| [SubGoal Nr. 5] YouTube: retweets of a YT publication           |  **13** |      |         |         |         |         |      |            |
+| [SubGoal Nr. 6] Discord: projects profiles                      |  **15** |      |         |         |         |         |      |            |
+
+
+
+
+## 2024 KPI tables Q1 - Q4
 
  
 
