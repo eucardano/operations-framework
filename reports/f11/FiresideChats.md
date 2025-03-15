@@ -6,8 +6,14 @@ A list of all the Fireside Chats/Town Halls hosted by the European Cardano Commu
 # 2025
 ---
 
-Mar 06/25
+Mar 04/25 (Should be Mar 6th)
 ### ECC Fireside Chat - IAMX, Begin Wallet, YASG 
+
+Video - Fireside Chat: https://youtu.be/UnwT3QvLcsQ
+
+Video - Gov Talk: https://youtu.be/yc86hNpTeKY
+
+Video - Xspaces: https://x.com/EuCardano/status/1900885256560845111
 
 ---
 
