@@ -18,11 +18,13 @@ https://x.com/R2D2Coin/status/1881764946780037335
 31 tuned in, 0:55
 https://x.com/i/spaces/1YqKDkEzebexV/peek
 
----
+
 
 ### Revuto, December 3rd
 Details not available
 https://x.com/get_revuto/status/1863742199680184814
+
+---
 
 ### Germany, November 19
 125 tuned in, 1:44:44
