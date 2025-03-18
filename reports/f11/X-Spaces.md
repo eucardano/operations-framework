@@ -3,13 +3,13 @@ A list of all the X-Spaces hosted by the European Cardano Community
 
 ## 2025
 
+### Germany, January 21
+4 tuned in, 0:55 - Details not available
+https://x.com/EuCardano/status/1878075767458029727
+
 ### Cardano over Cofee, Jan 15
 123 tuned in, 1:35:03
 https://x.com/i/spaces/1dRKZdEnAXmJB
-
-### Germany, December 18
-4 tuned in, 0:55 - Details not available
-https://x.com/R2D2Coin/status/1881764946780037335
 
 ---
 ## 2024
