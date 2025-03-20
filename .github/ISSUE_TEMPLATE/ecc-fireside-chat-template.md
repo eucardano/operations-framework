@@ -24,8 +24,11 @@ Please take this info (socials, logo, and slides) and post it in the comment sec
 - [ ] Remember projects regarding Event one-pager
 - [ ] Tweet 72 hours in advance
 - [ ] Tweet 24 hours in advance
-- [ ] Event Slides
+- [ ] Tweet 12 hours in advance
 - [ ] Tweet 60 Minutes in advance
+- [ ] Tweet at start
+- [ ] Event Slides
+- [ ] Tweet after session beginning
 - [ ] Edit Video
 - [ ] Upload & Description
 - [ ] Timestamp
