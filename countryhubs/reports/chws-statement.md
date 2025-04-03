@@ -1,0 +1,252 @@
+# Summary Country Hub Workshops
+
+
+
+listed in: https://github.com/eucardano/operations-framework/blob/main/reports/f11/f11.m2.chws-statement.md  
+   
+   
+---
+
+
+
+
+
+
+### Italy, Bologna: 22.05.2024 
+
+
+
+Host & Admin: Fluid Tokens & ECC (Michele, Davide Lucchesi)  
+
+Venue: Decentry Academy, Via Amendola, 8 – 40121 Bologna  
+
+Merch: not applicable (spontaeous kick-off event supported by Fluid Tokens)  
+
+Participant Count: ~23  
+
+
+
+**X video / posts from the event**    
+
+https://x.com/DisAstrid_Web3/status/1793711209671266483
+
+
+
+
+
+Link to report: https://github.com/orgs/eucardano/projects/8/views/1?pane=issue&itemId=55726608  
+
+Link to results: TBD - https://github.com/orgs/eucardano/projects/8/views/1?pane=issue&itemId=55726608     
+
+
+
+
+
+---
+
+
+
+
+
+
+
+### Greece, Athens: 15.06.2024, Athens: 16.06.2024, Thessaloniki: 21.06.2024
+
+
+
+Host & Admin: OdyC DAO (Kostas Siagas , Georgios Tsoumas)   
+
+Venue: Impact Hub Athens; Ok!Thess Thessaloniki   
+
+Merch: OdyC made their own banners for the workshops, with OdyC DAO's and ECC's logos on them (partly reimbursed).   
+
+Participant Count: 15 registered, 8 attended  
+
+
+
+**X video / posts from the event**    
+
+https://x.com/OdyC_DAO/status/1802341511327043965
+
+https://x.com/KostasSiagas/status/1802304031211041063
+
+https://x.com/MeditatorCrypto/status/1804499436552270191
+
+https://x.com/MeditatorCrypto/status/1851644033451385108  
+
+
+
+Link to report: https://github.com/eucardano/operations-framework/blob/main/countryhubs/reports/reimbursements/24-06%20-%20OdyC%20-%20Workshops/Finale.OdyC.DAO.workshop.expenses.report.pdf
+
+Link to results: https://github.com/eucardano/operations-framework/blob/main/countryhubs/reports/blueprints/15-16-210724Greece-blueprint-chws
+
+
+
+
+
+---
+
+
+
+
+
+
+
+### Bulgaria, Varna: 13.07.2024
+
+
+
+Host & Admin: AWA  (Martin Marinov)    
+
+Venue: Switch CoWorking Space - blvd. Vladislav Varnenchik 53-55  
+
+Merch: The hosts received event merchandise from the ECC and distributed it to the participants.   
+
+Participant Count: 7   
+
+
+
+**X video / posts from the event**    
+
+https://x.com/EuCardano/status/1815777155243966842
+
+
+
+Link to expenses: https://github.com/eucardano/operations-framework/blob/main/countryhubs/reports/reimbursements/24-07%20-%20AWA%20Bulgaria%20Workshops/240713-Bulgaria-reimbursement-statement.md
+
+Link to results: https://github.com/eucardano/operations-framework/blob/main/countryhubs/reports/blueprints/240713-Bulgaria-blueprint-chws.md
+
+
+
+
+
+---
+
+
+
+
+
+
+
+### Greece, Thessaloniki: 23.11.2024
+
+
+
+Host & Admin: OdyC DAO (Kostas Siagas , Georgios Tsoumas)   
+
+Venue: Ok!Thess  
+
+Merch: The hosts received event merchandise from the ECC and distributed it to the participants.   
+
+Participant Count: 13 registered, 3 attended the workshops   
+
+
+
+**X posts promoting the event**    
+
+https://x.com/MeditatorCrypto/status/1851644033451385108
+
+
+
+**X video /  posts from the event**  
+
+https://x.com/MeditatorCrypto/status/1860283290361446569
+
+https://x.com/MeditatorCrypto/status/1860315398907858965
+
+
+
+Link to expenses: https://github.com/eucardano/operations-framework/blob/main/countryhubs/reports/reimbursements/24-12%20-%20OdyC%20-%20Greece%20Workshops/131224%20-greece-reimbursement-statement.md
+
+Link to results: https://github.com/eucardano/operations-framework/blob/main/countryhubs/reports/blueprints/2024-11-23-Greece-blueprint-chws.md
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+### Greece, Athens: 13.12.2024
+
+
+
+Host & Admin: OdyC DAO (Kostas Siagas , Georgios Tsoumas)   
+
+Venue: Tholou 5, Plaka, Athens 105 56, Greece  
+
+Merch: The hosts received event merchandise from the ECC and distributed it to the participants.    
+
+Participant Count: 8 people  
+
+**X video / posts from the event**  
+
+https://x.com/OdyC_DAO/status/1868053189423255800
+
+https://www.youtube.com/watch?v=W4ybyw3nidU  (https://x.com/OdyC_DAO/status/1885384778305700004)
+
+
+
+Link to expenses: https://github.com/eucardano/operations-framework/blob/main/countryhubs/reports/reimbursements/24-12%20-%20OdyC%20-%20Greece%20Workshops/131224%20-greece-reimbursement-statement.md
+
+Link to results: https://github.com/eucardano/operations-framework/blob/main/countryhubs/reports/blueprints/241213Greeceblueprint-chws.md
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+### Bulgaria, Varna: 28.03.2025
+
+
+
+Host & Admin: AWA  (Martin Marinov)   
+
+Venue: Switch CoWorking Space - blvd. Vladislav Varnenchik 53-55
+
+Merch: The hosts received event merchandise from the ECC and distributed it to the participants.  
+
+Participant Count: TBD
+
+
+
+**X posts promoting the event**    
+
+https://x.com/EuCardano/status/1815777155243966842
+
+
+
+**X posts from the event**  
+
+
+
+
+
+Link to expenses: TBD  
+
+Link to results: TBD  
+
+
+
+---
+
+
+
+
+
