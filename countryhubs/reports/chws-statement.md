@@ -2,7 +2,7 @@
 
 
 
-listed in: https://github.com/eucardano/operations-framework/blob/main/countryhubs/reports/chws-statement.md
+listed in: https://github.com/eucardano/operations-framework/blob/main/reports/f11/assets/f11.m2.chws-statement.md
    
    
 ---
