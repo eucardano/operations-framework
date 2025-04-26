@@ -7,6 +7,24 @@ A list of all the Fireside Chats/Town Halls hosted by the European Cardano Commu
 ---
 
 
+Apr 17/25
+### ECC Fireside Chat - James Meidinger (Blockjock), Daniel Thompson-Yvetot (CrabNebula, Author of "Manufacturing European Software"), Marco112358 (TradFi & DAO working groups)
+Video - Fireside Chat: https://youtu.be/3iYTbMz4ZeQ   
+Video - Short: https://x.com/EuCardano/status/1915814276121452980   
+Video - on X: https://x.com/EuCardano/status/1915814273684549732   
+
+
+---
+
+
+Apr 03/25
+### ECC Fireside Chat - Aquara, Larissa.Health
+Video - Fireside Chat: https://youtu.be/3Ryob6N3SjI  
+Video - Short: https://x.com/EuCardano/status/1910755025367736539  
+Video - on X: https://x.com/EuCardano/status/1910755021664477359  
+
+---
+
 Mar 20/25
 ### ECC Fireside Chat - ADAExchange && Boaz, Revuto
 
