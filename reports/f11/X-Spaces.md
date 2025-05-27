@@ -18,7 +18,7 @@ https://x.com/EuCardano/status/1917158819584409926
 
 ---
 
-### Germany, April 21  
+### Germany, April 24  
 15 tuned in, 0:30  
 https://x.com/EuCardano/status/1914252016064647679  
 
@@ -28,7 +28,7 @@ https://x.com/EuCardano/status/1912305838057742767
 
 ---
 
-### Germany, March 24  
+### Germany, March 27  
 50 tuned in, 0:35  
 https://x.com/EuCardano/status/1904098585957814473  
  
