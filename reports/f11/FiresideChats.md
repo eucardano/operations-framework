@@ -5,6 +5,15 @@ A list of all the Fireside Chats/Town Halls hosted by the European Cardano Commu
 ---
 # 2025
 ---
+May 15/25  
+### ECC Fireside Chat - Promo Facie, Fida Finance  
+
+Full Video: https://youtu.be/CsFPz3bzf8M  
+Video Short: https://youtube.com/shorts/NEGGsil8Hy8?feature=share  
+Post on X: https://x.com/EuCardano/status/1928707882926682233  
+
+
+---
 May 01/25  
 ### ECC Fireside Chat - Promo Facie, Fida Finance  
 
