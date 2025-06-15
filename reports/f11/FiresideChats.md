@@ -5,6 +5,16 @@ A list of all the Fireside Chats/Town Halls hosted by the European Cardano Commu
 ---
 # 2025
 ---
+June 05/25  
+### ECC Fireside Chat - Sundial Protocol, Diamond Hooves, The Refresh, PromoFacie  
+
+Full Video: youtu.be/J37c3GXccQE 
+Video Short: https://x.com/EuCardano/status/1934271971174552005  
+Post on X: https://x.com/EuCardano/status/1934271968318001220  
+
+
+---
+
 May 15/25  
 ### ECC Fireside Chat - Promo Facie, Fida Finance  
 
