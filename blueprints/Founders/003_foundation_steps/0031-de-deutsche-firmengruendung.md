@@ -26,13 +26,19 @@
 - **Spartipp:** Einige Industrie- und Handelskammern (IHKs) bieten Rabatte für Neugründungen oder kleinere Unternehmen an. Fragt daher nach möglichen Ermäßigungen.
 - **Beschreibung:** Werdet Mitglied bei der zuständigen Industrie- und Handelskammer, um von Beratungsleistungen zu profitieren und die regionalen Vorschriften einzuhalten.
 
-### 5. Vertragsanpassungen
+### 5. Arbeitsamt & Verwaltungs-Berufsgenossenschaft (VBG)
+
+- **Kosten:** In der Regel kostenlos. Bei komplexen Fällen können jedoch Beratungsgebühren anfallen.
+- **Spar-Tipp:** Nutzen Sie zunächst das Online-Formular der VBG und wenden Sie sich anschließend an das Arbeitsamt.
+- **Beschreibung:** Registrieren Sie eine Betriebsnummer bei der VBG und eine Arbeitgebernummer beim Arbeitsamt. Dies ist auch ohne Mitarbeiter obligatorisch.
+
+### 6. Vertragsanpassungen
 
 - **Kosten:** Abhängig vom Umfang der benötigten Rechtsdienstleistungen; von rund 500 € für einfache Anpassungen bis hin zu mehreren Tausend Euro für umfassende Vertragsprüfungen und -aktualisierungen.
 - **Spartipp:** Online-Rechtsdienstleistungen für Standardvertragsänderungen können kostengünstiger sein als die Beauftragung eines Anwalts für grundlegende Modifizierungen.
 - **Beschreibung:** Passt bestehende Verträge an, um die neue Unternehmensform widerzuspiegeln, und integriert die erforderlichen Servicevereinbarungen.
 
-### 6. Strukturdaten der statistischen Landesämter
+### 7. Strukturdaten der statistischen Landesämter
 
 - **Kosten:** Für detaillierte Berichte können Gebühren anfallen, in der Regel unter 100 €.
 - **Spartipp:** Manche Daten erhaltet Ihr kostenlos über Regierungswebsites oder lokale Wirtschaftsförderungen.
