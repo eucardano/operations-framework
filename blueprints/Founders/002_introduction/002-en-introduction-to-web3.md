@@ -1,7 +1,7 @@
 # Introduction
 
 The evolution from Web2 to Web3 represents a transformative shift in how online platforms are built and operated.  
-Unlike Web2, which is characterized by centralized control, proprietary platforms, and restricted data management, Web3 amis for decentralized ecosystems empowered by blockchain technology.  
+Unlike Web2, which is characterized by centralized control, proprietary platforms, and restricted data management, Web3 aims for decentralized ecosystems empowered by blockchain technology.  
 
 Although Web3 is still a work in progress in its early stages, its promise lies in the rapid evolution of open source projects—where a mix of public and private source code drives innovation and resilience.  
 
@@ -20,7 +20,8 @@ This doesn't say that for-profit companies won't exist, only that their paradigm
    Community-driven initiatives are at the heart of blockchain innovation, promoting transparency and collaboration.  
    Open source development not only accelerates technological progress but also ensures that the ecosystem remains adaptable and secure.  
    By embracing open source principles, the blockchain community builds trust and enables diverse contributions from developers around the globe.  
-   Like traditional networks, different blockchains are serving special purposes or at least favoured by different interest groups. It might be worth to revaluate which blockchain-ecosystem fits your need best instead of looking for a one-size-fits-all approach.  
+   Like traditional networks, different blockchains are serving special purposes or at least favoured by different interest groups.  
+   It might be worth to evaluate which blockchain-ecosystem fits your need best instead of looking for a one-size-fits-all approach.  
 
 
 ### 3. **Companies in Web3**  
