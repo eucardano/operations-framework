@@ -2,7 +2,7 @@
 
 ## General Registration and Legal Considerations
 
-### 1. Gewerbeamt Registration
+### 1. Trade office (Gewerbeamt) Registration
 - **Cost:** Approximately €15 to €60, depending on the municipality.
 - **Cost-Saving Tip:** Prepare all necessary documents in advance and check if online registration is possible to save on transportation and potential consultancy fees. The Gewerbeamt itself does not charge any additional consulting fees.
 - **Description:** Register your business at the local trade office (Gewerbeanmeldung). Cancel any old business registrations if necessary to ensure compliance and avoid duplications.
