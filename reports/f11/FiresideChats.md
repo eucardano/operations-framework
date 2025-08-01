@@ -5,6 +5,35 @@ A list of all the Fireside Chats/Town Halls hosted by the European Cardano Commu
 ---
 # 2025
 ---
+
+July 17/25
+### ECC Fireside Chat - Empowa, Larissa.Health, Oceanic Goon (World Mobile)  
+Full Video: youtu.be/A5LaAPi8Bm8  
+Video Short: https://x.com/EuCardano/status/1951308303830556769  
+Post on X: https://x.com/EuCardano/status/1951308301406556457  
+
+
+---
+
+July 03/25
+### ECC Fireside Chat - Revuto, Viper Swap, Gyroswap  
+Full Video: https://youtu.be/QAZALbbNC1I 
+Video Short: https://x.com/EuCardano/status/1945835585509163504  
+Post on X: https://x.com/EuCardano/status/1946199778745827452  
+
+
+---
+
+June 19/25  
+### ECC Fireside Chat - Fairway, Hoskilien, Apex Fusion  
+
+Full Video: https://youtu.be/-ZpUtuybBw8 
+Video Short: https://x.com/EuCardano/status/1940766141858627907  
+Post on X: https://x.com/EuCardano/status/1941095816816415035  
+
+
+---
+
 June 05/25  
 ### ECC Fireside Chat - Sundial Protocol, Diamond Hooves, The Refresh, PromoFacie  
 
