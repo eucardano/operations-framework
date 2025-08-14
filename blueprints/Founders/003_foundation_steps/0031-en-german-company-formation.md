@@ -2,32 +2,37 @@
 
 ## General Registration and Legal Considerations
 
-### 1. Gewerbeamt Registration
+### 1. Trade office (Gewerbeamt) Registration
 - **Cost:** Approximately €15 to €60, depending on the municipality.
 - **Cost-Saving Tip:** Prepare all necessary documents in advance and check if online registration is possible to save on transportation and potential consultancy fees. The Gewerbeamt itself does not charge any additional consulting fees.
 - **Description:** Register your business at the local trade office (Gewerbeanmeldung). Cancel any old business registrations if necessary to ensure compliance and avoid duplications.
 
-### 2. Handelsregister (HRB) Registration
-- **Cost:** Typically ranges from €600 to €1,200, including notary fees and registration costs.
+### 2. Commercial Register (Handelsregister HRB) Registration
+- **Cost:** Typically ranges from €400 to €1,200, including notary fees and registration costs.
 - **Cost-Saving Tip:** Utilize a standard contract template where possible to reduce notary fees. Standardized articles of incorporation can significantly lower the overall cost if they suit your business needs.
 - **Description:** Establish a capital company, such as a GmbH or UG (haftungsbeschränkt), through a notary. This involves drafting articles of association, managing share capital requirements, and officially registering with the local commercial register.
 
-### 3. Finanzamt Registration
+### 3. Tax office (Finanzamt) Registration
 - **Cost:** Generally free of charge, but consult a tax advisor for complex cases which might incur advisory fees.
 - **Cost-Saving Tip:** Utilizing online tax registration services where available can streamline the process and reduce the need for paid assistance.
 - **Description:** Register for tax purposes including obtaining a VAT identification number for engaging in economic activities within the EU.
 
-### 4. IHK Membership
+### 4. Chamber of Commerce and Industry (Industrie und Handelskammer) Membership
 - **Cost:** Annual fees vary based on the company's annual revenue; base fee is often around €150 to €300.
 - **Cost-Saving Tip:** Some IHKs offer discounts for new businesses or smaller enterprises, so it's worth asking about any available reductions.
 - **Description:** Join the local Chamber of Industry and Commerce to benefit from business support services and comply with regional business regulations.
 
-### 5. Contract Adjustments
+### 5. Employment Office & Administrative Professional Association (Arbeitsamt & Verwaltungs-Berufsgenossenschaft VBG))
+- **Cost:** Generally free of charge, but consult a tax advisor for complex cases which might incur advisory fees.
+- **Cost-Saving Tip:** Use the online form of VBG first and then proceed with the Employment office.
+- **Description:** Register a Company number with the VBG and a Employer number with the Employment office. This is mandatory even without employees.
+
+### 6. Contract Adjustments
 - **Cost:** Depends on the legal services required; typically from €500 for standard adjustments up to several thousand for comprehensive contract reviews and updates.
 - **Cost-Saving Tip:** Using online legal services for standard contract modifications can be more cost-effective than hiring a lawyer for basic adjustments.
 - **Description:** Update existing contracts to reflect the new business entity and integrate necessary service agreements.
 
-### 6. Strukturdaten der statistischen Landesämter
+### 7. Structural data from the state statistical offices (Strukturdaten der statistischen Landesämter)
 - **Cost:** Accessing detailed reports may involve fees, generally under €100.
 - **Cost-Saving Tip:** Some data may be available for free through government websites or local business support agencies.
 - **Legal Compliance:** Companies need to update their yearly statistical reports, a requirement that can be fulfilled at no cost, ensuring ongoing compliance with regulatory standards.

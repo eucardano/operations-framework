@@ -1,4 +1,4 @@
-## Special Case Project Catalyst (probably a GbR)
+## Special Case Project Catalyst (probably a cooperative)
 
 
 
@@ -6,9 +6,18 @@
 
 
 
-From a purely tax perspective, **Project Catalyst** is a special case because the funds do not come from a traditional company or a governmental entity, but rather from the Cardano treasury or a decentralized network. (IOG, in this case, is more like an initiator and developer, not necessarily the “paying party” in the usual sense.)
+From a purely tax perspective, **Project Catalyst** is a special case because the funds do not come from a traditional company or a governmental entity, but rather from the Cardano treasury – a decentralized network. The grants are managed and disbursed by the Catalyst Foundation Company (CFC) – with Input Output Global (IOG) acting as the administrator.
 
-In practice, however, it is often treated **as though you are providing a service or executing a project** for an (extra-European) entity. In Germany, the following typically applies to such income:
+Name: Catalyst Foundation Company (CFC/Catalyst FC)
+Address: 4th Floor Harbour Place, 103 South Church Street, P.O. Box 10240, Grand Cayman, KY1-1002, Cayman Islands
+Incorporation number: 407644
+
+> Note: Depending on the entity who incorporated the CFC and the jurisdiction of your own business or private activity, this could be highly relevant information to share with your tax advisor.
+
+
+
+So in practice, it is often treated **as though you are providing a service or executing a project** for an extra-European entity. 
+In Europe, the following typically applies to such income:
 
 1. **Income Tax / Operating Income**  
    - If it represents a business activity (e.g., developing a software solution, prototype, marketing measures, etc.) and you get paid for it, these earnings must be reported as **business income** (for commercial/self-employed activities) or **other income** (for private activities).  
@@ -32,9 +41,9 @@ In practice, however, it is often treated **as though you are providing a servic
 
 ### Wallet Holder in Project Catalyst (Fiduciary Role)
 
-In some Project Catalyst scenarios, one member of a group may hold the wallet in a **trustee (fiduciary) capacity**, especially when the wallet is **not** a multisig wallet. This situation can often lead to the formation of an **informal GbR (partnership)** under German law, since multiple parties are effectively engaging in a common project with a shared economic interest.
+In some Project Catalyst scenarios, one member of a group may hold the wallet in a **trustee (fiduciary) capacity**, especially when the wallet is **not** a multisig wallet. This situation can often lead to the formation of an **informal business partnership** under European law (i.e. Germany's GbR), since multiple parties are effectively engaging in a common project with a shared economic interest.
 
-When a single individual holds the private keys and receives the funds, the **tax ownership** (i.e., who is considered the beneficial owner of these tokens or proceeds) must be clearly documented. If that individual is merely holding the wallet **on behalf of** the group (a fiduciary arrangement), then the underlying economic rights might belong to all parties involved - which in turn can trigger the requirements and obligations of a GbR or other partnership forms.
+When a single individual holds the private keys and receives the funds, the **tax ownership** (i.e., who is considered the beneficial owner of these tokens or proceeds) must be clearly documented. If that individual is merely holding the wallet **on behalf of** the group (a fiduciary arrangement), then the underlying economic rights might belong to all parties involved - which in turn can trigger the requirements and obligations of such partnership forms.
 
 For **tax purposes**, the income or gains may need to be attributed to each participant proportionally, rather than to the wallet holder alone. Proper **documentation** and legal agreements (e.g., trustee or partnership contracts) are essential to demonstrate:
 
@@ -51,12 +60,12 @@ As a result, whenever multiple individuals collaborate on a Project Catalyst pro
 ### Point in Time of Taxation / Sequence of Tax Events
 
 1. **Initial Receipt (Group Wallet)**  
-   - Typically, the tax office will regard **each participant** in the partnership/GbR as having received their proportional share of the funds **as soon as** the tokens flow into the jointly used (group) wallet.  
+   - Typically, the tax office will regard **each participant** in the partnership as having received their proportional share of the funds **as soon as** the tokens flow into the jointly used (group) wallet.  
    - The relevant **market value** at that moment (date of _first_ inflow) is used to determine the taxable income for each partner.
 
 2. **Subsequent Transfer (Individual Wallet)**  
    - If, after some time, the tokens are **moved** from the group wallet to each individual partner’s personal wallet, another taxable event **may** arise, depending on how the arrangement is structured.  
-   - In many cases, this subsequent transfer may be viewed simply as a **distribution of assets** already deemed owned by each partner, rather than “new income.” However, if the tokens have **increased** in value between the first group receipt and the later transfer, the partnership (GbR) might be considered to have experienced an increase in value, potentially triggering further tax consequences on that appreciation (especially if there is a disposition, sale, or dissolution event within the partnership).
+   - In many cases, this subsequent transfer may be viewed simply as a **distribution of assets** already deemed owned by each partner, rather than “new income.” However, if the tokens have **increased** in value between the first group receipt and the later transfer, the partnership might be considered to have experienced an increase in value, potentially triggering further tax consequences on that appreciation (especially if there is a disposition, sale, or dissolution event within the partnership).
 
 Because these details can be complex in practice, the final determination often depends on (a) whether or not the group continues to hold or stake the tokens collectively, (b) how and when the partnership recognizes gains or losses in its bookkeeping, and (c) the exact nature of the distribution (in-kind distribution vs. sale for fiat, etc.).
 
@@ -67,7 +76,7 @@ Because these details can be complex in practice, the final determination often 
 If the arrangement **lacks** formal clarity, tax authorities might:
 
 - Presume that all funds belong to the single wallet holder (leading to that person bearing the entire tax burden), or  
-- Treat the group as an **informal GbR** with each member liable for their portion of income, plus any further gains or losses upon distribution.
+- Treat the group as a **legal partnership** with each member liable for their portion of income, plus any further gains or losses upon distribution.
 
 Whenever multiple individuals collaborate on a Project Catalyst proposal (or any group-held crypto arrangement), carefully **assessing the legal and tax structure** in advance - including potential trustee or partnership scenarios - is highly recommended. Always seek **professional advice** from a qualified tax advisor and/or attorney to ensure compliance and avoid unexpected tax consequences.
 
