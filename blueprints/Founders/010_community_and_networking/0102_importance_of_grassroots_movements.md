@@ -12,7 +12,7 @@ Over time, this bottom-up approach creates a bridge between local realities and 
 ## TL;DR
 
 Grassroots movements connect blockchain to real-world communities.  
-They are small in scale but high in impact — building trust, enabling collaboration, and ensuring local voices shape global decisions.    
+They are small in scale but high in impact – building trust, enabling collaboration, and ensuring local voices shape global decisions.    
 
 ---
 

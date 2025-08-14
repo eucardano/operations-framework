@@ -5,12 +5,6 @@
 
 
 2. **[Introduction](002_introduction/)**
-   1. What is Web3 and how is it different from Web2
-   		2. Web3 is still a work in progress in its early stages
-   		3. Rapid growth of Open Source, but like Web2 there is a mix of public and private source code
-   4. The importance of community-driven projects and open source in the blockchain ecosystem.
-   5. Companies in Web3
-   2. Leveraging collective knowledge for effective decision-making.
 
 
 3. **[Foundation Steps](003_foundation_steps/)**
