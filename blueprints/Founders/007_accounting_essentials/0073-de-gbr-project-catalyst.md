@@ -2,9 +2,17 @@
 
 > **Hinweis:** Dieser Inhalt dient nur zu Informationszwecken und stellt keine steuerliche oder rechtliche Beratung dar. Bitte konsultieren Sie stets eine geeignete Fachperson (Steuerberater, Rechtsanwalt) für Ihren konkreten Einzelfall.
 
-Aus rein steuerlicher Sicht ist **Project Catalyst** ein Sonderfall, da die Gelder nicht von einem klassischen Unternehmen oder einer staatlichen Stelle stammen, sondern aus dem Cardano-Treasury oder einem dezentralen Netzwerk. (IOG ist hier eher als Initiator und Entwickler zu sehen, nicht unbedingt als "zahlende Partei" im üblichen Sinne.)
+Aus rein steuerlicher Sicht stellt **Project Catalyst** einen Sonderfall dar, da die Mittel nicht von einem traditionellen Unternehmen oder einer staatlichen Stelle stammen, sondern aus der Cardano Treasury – einem dezentralen Netzwerk. Die Fördergelder werden von der **Catalyst Foundation Company (CFC)** verwaltet und ausgezahlt – mit Input Output Global (IOG) als Administrator.
 
-Praktisch wird es jedoch oft so behandelt, **als ob man eine Dienstleistung oder ein Projekt** für eine (außereuropäische) Entität erbringt. In Deutschland gilt für solche Einkünfte in der Regel Folgendes:
+Name: Catalyst Foundation Company (CFC/Catalyst FC)
+Adresse: 4th Floor Harbour Place, 103 South Church Street, P.O. Box 10240, Grand Cayman, KY1-1002, Cayman Islands
+Incorporation Number: 407644
+
+> Hinweis: Abhängig davon, welche juristische Person die CFC gegründet hat und in welcher Rechtsordnung das eigene Unternehmen oder die private Tätigkeit angesiedelt ist, kann dies für den Steuerberater von hoher Relevanz sein.
+
+
+
+Praktisch wird dies meist so behandelt, **als ob man eine Dienstleistung oder ein Projekt** für eine (außereuropäische) Entität erbringt. In Deutschland gilt für solche Einkünfte in der Regel Folgendes:
 
 1. **Einkommensteuer / Betriebseinnahmen**  
    - Handelt es sich um eine unternehmerische Tätigkeit (z. B. Entwicklung einer Softwarelösung, eines Prototyps, Marketingmaßnahmen etc.) und man wird dafür bezahlt, sind diese Einnahmen als **gewerbliche oder freiberufliche Einkünfte** bzw. eventuell als **sonstige Einkünfte** zu versteuern.  

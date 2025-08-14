@@ -53,14 +53,12 @@
 
 10. **[Community and Networking](010_community_and_networking/)**
     1. Building and leveraging community networks.
-    2. Importance of grassroots movements and local hubs.
-    3. Case studies from ECC Country Hubs in Greece and Bulgaria.
+    2. Importance of grassroots movements and local hubs 
+       – the ECC Country Hubs in Greece and Bulgaria
 
-11. **[Continued Learning and Adaptation](011_continued_learning_and_adaptation/)**
+11. **[Closing Remarks](011_closing_remarks/)**
+    
     1. Adapting to new technologies and legal landscapes.
-    2. Encouraging continuous learning and community contributions.
-
-12. **[Appendices](012_appendices/)**
-    1. Summary of ECC Country Hub workshops.
     2. Glossary of terms.
-    3. Additional resources and reading materials.
+    
+    
