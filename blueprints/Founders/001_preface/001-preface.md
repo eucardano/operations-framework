@@ -8,7 +8,7 @@ Sponsored by Fund 11 – 2024
 
 Authored by Marcus Ubani  
 
-## Introduction
+## Preface
 
 This is not about conspiracy theories but a practical outline of how the journey as a founder could look.  
 

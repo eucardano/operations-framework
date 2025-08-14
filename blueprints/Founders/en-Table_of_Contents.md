@@ -1,10 +1,13 @@
 # Table of Contents
 
 1. **[Preface](001_preface/)**
-   
 
 
 2. **[Introduction](002_introduction/)**
+
+   1. Introduction
+   2. Working with Git (GitHub) 
+
 
 
 3. **[Foundation Steps](003_foundation_steps/)**
