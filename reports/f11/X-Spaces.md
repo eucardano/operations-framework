@@ -47,7 +47,7 @@ https://x.com/EuCardano/status/1912305838057742767
 
 ---
 
-### Germany, March 27  
+### Germany, March 27, Unternehmerfrühstück  
 50 tuned in, 0:35  
 https://x.com/EuCardano/status/1904098585957814473  
  
