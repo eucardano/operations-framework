@@ -17,7 +17,7 @@ Post on X: https://x.com/EuCardano/status/1951308301406556457
 
 July 03/25
 ### ECC Fireside Chat - Revuto, Viper Swap, Gyroswap  
-Full Video: https://youtu.be/QAZALbbNC1I 
+Full Video: https://youtu.be/QAZALbbNC1I   
 Video Short: https://x.com/EuCardano/status/1945835585509163504  
 Post on X: https://x.com/EuCardano/status/1946199778745827452  
 
@@ -27,7 +27,7 @@ Post on X: https://x.com/EuCardano/status/1946199778745827452
 June 19/25  
 ### ECC Fireside Chat - Fairway, Hoskilien, Apex Fusion  
 
-Full Video: https://youtu.be/-ZpUtuybBw8 
+Full Video: https://youtu.be/-ZpUtuybBw8  
 Video Short: https://x.com/EuCardano/status/1940766141858627907  
 Post on X: https://x.com/EuCardano/status/1941095816816415035  
 
@@ -37,7 +37,7 @@ Post on X: https://x.com/EuCardano/status/1941095816816415035
 June 05/25  
 ### ECC Fireside Chat - Sundial Protocol, Diamond Hooves, The Refresh, PromoFacie  
 
-Full Video: youtu.be/J37c3GXccQE 
+Full Video: youtu.be/J37c3GXccQE  
 Video Short: https://x.com/EuCardano/status/1934271971174552005  
 Post on X: https://x.com/EuCardano/status/1934271968318001220  
 
