@@ -3,45 +3,45 @@ A list of all the X-Spaces hosted by the European Cardano Community
 
 ## 2025
 
-### UK, August 10
+### UK, August 10, SMart
 198 tuned in, 1:24  
 https://x.com/EuCardano/status/1953738239036035224
 
-### UK, July 13
+### UK, July 13,  Mekkalabs
 80 tuned in, 1:24  
 https://x.com/EuCardano/status/1943274282571661680
 
-### UK, June 29
+### UK, June 29, Necro League
 629 tuned in, 1:31  
 https://x.com/EuCardano/status/1938268024777138477
 
-### UK, June 15
+### UK, June 15, Hoskilien
 109 tuned in, 1:48  
 https://x.com/EuCardano/status/1932841888437895528
 
-### UK, June 1
+### UK, June 1, The Refresh 
 97 tuned in, 1:24  
 https://x.com/EuCardano/status/1927728711249322141
 
-### Germany, May 21  
+### Germany, May 21, Unternehmerfrühstück  
 23 tuned in, 0:36  
 https://x.com/EuCardano/status/1924415799575314571  
 
-### UK, May 18  
+### UK, May 18 , Hydro Drip
 201 tuned in, 1:00  
 https://x.com/EuCardano/status/1922970693311869429  
 
-### UK, May 4  
+### UK, May 4, Diamond Hooves  
 148 tuned in, 1:00  
 https://x.com/EuCardano/status/1917158819584409926  
 
 ---
 
-### Germany, April 24  
+### Germany, April 24, Unternehmerfrühstück  
 15 tuned in, 0:30  
 https://x.com/EuCardano/status/1914252016064647679  
 
-### UK, April 20  
+### UK, April 20, Promo Facie - Kick-off Event  
 201 tuned in, 1:00  
 https://x.com/EuCardano/status/1912305838057742767  
 
