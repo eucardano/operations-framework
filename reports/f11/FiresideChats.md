@@ -84,7 +84,7 @@ Mar 20/25
 ### ECC Fireside Chat - ADAExchange && Boaz, Revuto
 
 Video - Fireside Chat: https://youtu.be/rVfh8_-dm_4  
-Video - Short: https://www.youtube.com/shorts/R56c1w-NRIQ
+Video - Short: https://www.youtube.com/shorts/R56c1w-NRIQ  
 Video - on X: https://x.com/EuCardano/status/1905675921572475206  
 
 ---
