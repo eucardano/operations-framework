@@ -45,7 +45,7 @@ Post on X: https://x.com/EuCardano/status/1934271968318001220
 ---
 
 May 15/25  
-### ECC Fireside Chat - Promo Facie, Fida Finance  
+### ECC Fireside Chat - M2 Tech, Game Changer Stack
 
 Full Video: https://youtu.be/CsFPz3bzf8M  
 Video Short: https://youtube.com/shorts/NEGGsil8Hy8?feature=share  
