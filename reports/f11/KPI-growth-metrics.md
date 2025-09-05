@@ -6,21 +6,42 @@
 
 Users who opted-out of analytics tracking will not show up in the data.
 
+Our X-account's following grew from ~3000 (January 2024) to ~6000 (September 25).
+
+The highest growth was from November 24 to January 25, when we reported publicy on our blueprints and added transparency to our change request. Since then we grew with a monthly average of ~140 followers.
+
+The number in the X-Spaces are taken from internal X-Analytics.
+
+
+
 ## 2025 KPI tables Q1 - Q2
 
  
 
 | **Q1 - Q2/2025**                                                |    GOAL |    1 |       2 |       3 |       4 |       5 |    6 | COMMENT                                                      |
 | :-----------------------------------------------------------    | ------: | ---: | ------: | ------: | ------: | ------: | ---: | ------------------------------------------------------------ |
-| [Goal Nr. 1] Town Hall Zoom calls:  participants                |  **30** |   20   |   20    |         |         |         |      |            |
-| [Goal Nr. 2] Discord: unique human members/users                | **555** |496/515 | 502/520 | 532/525 |    /535  | /545 | /555 |            |
-| [Goal Nr. 3] Discord:daily active users                         |   **7** |   4  | 4 |  4 |         |         |      |            |
-| [Goal Nr. 4] XSpaces: participants in the local language spaces |  **50** |  4    | 0 |  0  |  0   |         |      |            |
-| [SubGoal Nr. 5] YouTube: retweets of a YT publication           |  **13** | 414 | 60 |   52  |         |         |      |            |
+| [Goal Nr. 1] Town Hall Zoom calls:  participants                |  **30** |   20   |   20    | 12 | 11 | 6 | 14 |            |
+| [Goal Nr. 2] Discord: unique human members/users                | **555** |496/515 | 502/520 | 532/525 |  546/535  | 521/545 | 552/555 |            |
+| [Goal Nr. 3] Discord:daily active users                         |   **7** |   4  | 4 |  4 | 4 | 4 | 3 |            |
+| [Goal Nr. 4] XSpaces: participants in the local language spaces |  **50** |  4    | 0 |  34  |  97  | 106 | 77 |            |
+| [SubGoal Nr. 5] YouTube: retweets of a YT publication           |  **13** | 414 | 60 |  16  | 21 | 11 | 13 |            |
 | [SubGoal Nr. 6] Discord: projects profiles                      |  **60** | 47 |47 |    /51 |    /54   |   /57  |   /60 |    |
 
 From March going forward we are partnering with Promo Facie to increase engagement in Discord and on our Socials.  
 We also need to add a streamlined process to remind projects adding their profile to our profile section.
+
+
+
+| **Q3 - Q4/2025**                                             |    GOAL |       7 |       8 |    9 |   10 |   11 |   12 | COMMENT |
+| :----------------------------------------------------------- | ------: | ------: | ------: | ---: | ---: | ---: | ---: | ------- |
+| [Goal Nr. 1] Town Hall Zoom calls:  participants             |  **30** |      12 |         |      |      |      |      |         |
+| [Goal Nr. 2] Discord: unique human members/users             | **555** | 583/515 | 587/520 |      |      |      |      |         |
+| [Goal Nr. 3] Discord:daily active users                      |   **7** |       7 |       4 |      |      |      |      |         |
+| [Goal Nr. 4] XSpaces: participants in the local language spaces |  **50** |      34 |      68 |      |      |      |      |         |
+| [SubGoal Nr. 5] YouTube: retweets of a YT publication        |  **13** |      13 |         |      |      |      |      |         |
+| [SubGoal Nr. 6] Discord: projects profiles                   |  **60** |      47 |      47 |      |      |      |      |         |
+
+
 
 
 ## 2024 KPI tables Q1 - Q4
