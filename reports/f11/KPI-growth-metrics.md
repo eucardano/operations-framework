@@ -41,7 +41,7 @@ The **NFTweekend** initiative facilitated **46 on-chain promotions and giveaways
 | **Fireside Chats** | 26                     | ≈ 81                                 | ≈ 72                                    |
 | **Pitch Fests**    | 5                      | ≈ 40                                 | ≈ 35                                    |
 | **X-Spaces**       | 24                     | ≈ 4 800 listeners                    | –                                       |
-| **✅ Overall Sum**  | **55 public sessions** | **≈ 4 900 participants / listeners** | **≈ 105 unique projects / individuals** |
+| **Overall Sum**  | **55 public sessions** | **≈ 4 900 participants / listeners** | **≈ 105 unique projects / individuals** |
 
 
 
@@ -50,7 +50,7 @@ The **NFTweekend** initiative facilitated **46 on-chain promotions and giveaways
 | ------------------------------- | ---------------------------: | -------------: | ---------------------------: | ------------------------------------------------------------ |
 | **Project Promotions**          |                           18 |     ≈ 28.3 ADA |                ≈ 13 projects | Direct ecosystem support through weekly spotlight purchases  |
 | **Giveaways**                   |                           28 |     ≈ 34.5 ADA |              ≈ 26 recipients | Community rewards and raffles                                |
-| **✅ Total NFTweekend Activity** | **46 on-chain transactions** | **≈ 62.8 ADA** | **≈ 39 unique participants** | Executed as weekly initiatives to promote Cardano NFT creators and builders |
+| **Total NFTweekend Activity** | **46 on-chain transactions** | **≈ 62.8 ADA** | **≈ 39 unique participants** | Executed as weekly initiatives to promote Cardano NFT creators and builders |
 
 
 
