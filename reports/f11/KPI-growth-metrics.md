@@ -12,6 +12,46 @@ The highest growth was from November 24 to January 25, when we reported publicy 
 
 The number in the X-Spaces are taken from internal X-Analytics.
 
+Between **March 2024 and August 2025**, the European Cardano Community organized **55 public sessions** across Europe — including **26 Fireside Chats**, **5 Pitch Fests**, and **24 regional X-Spaces** — reaching more than **4 900 participants and listeners** and featuring **over 100 unique Cardano projects and founders**.  
+
+These events strengthened visibility for European builders, improved collaboration with Intersect and Catalyst, and expanded community reach through localized series in the UK, Germany, Italy, France and Greece.
+
+The **NFTweekend** initiative facilitated **46 on-chain promotions and giveaways**, distributing roughly **62 ADA** across **nearly 40 unique participants**. Our campaigns served as weekly community touchpoints, increasing visibility for small NFT projects and sustaining consistent ecosystem engagement throughout Fund 11.
+
+## Public Sessions Summary (Mar 2024 – Aug 2025)
+
+### Fireside Chats
+| Period              | # of Events | Guests (total) | Unique Guests/Projects | Highlights                                                   |
+| ------------------- | ----------- | -------------- | ---------------------- | ------------------------------------------------------------ |
+| Mar 2024 – Jul 2025 | **26**      | **≈ 81**       | **≈ 72**               | Regular bi-weekly Fireside Chats with founders, SPOs & builders across Europe |
+
+### Pitch Fests
+| Period              | # of Events | Projects (total) | Unique Teams | Highlights                            |
+| ------------------- | ----------- | ---------------- | ------------ | ------------------------------------- |
+| Dec 2024 – Jul 2025 | **5**       | **≈ 40**         | **≈ 35**     | Founder Pitches & Ecosystem Showcases |
+
+### X-Spaces
+| Period              | # of Events | Total Listeners | Avg. Listeners / Session | Active Regions                                           |
+| ------------------- | ----------- | --------------- | ------------------------ | -------------------------------------------------------- |
+| Mar 2024 – Aug 2025 | **24**      | **≈ 4 800**     | **≈ 200**                | UK, Germany, Greece, Italy, France + Global SPO Sessions |
+
+### Overall Totals (Fund 11 Activity Scope)
+| Category           | # of Sessions          | Participants / Listeners (total)     | Unique Projects / Guests                |
+| ------------------ | ---------------------- | ------------------------------------ | --------------------------------------- |
+| **Fireside Chats** | 26                     | ≈ 81                                 | ≈ 72                                    |
+| **Pitch Fests**    | 5                      | ≈ 40                                 | ≈ 35                                    |
+| **X-Spaces**       | 24                     | ≈ 4 800 listeners                    | –                                       |
+| **✅ Overall Sum**  | **55 public sessions** | **≈ 4 900 participants / listeners** | **≈ 105 unique projects / individuals** |
+
+
+
+### Aggregated NFTweekend Totals (Mar 2024 – Aug 2025)
+| Category                        |            # of Transactions |      Total ADA | Unique Projects / Recipients | Notes                                                        |
+| ------------------------------- | ---------------------------: | -------------: | ---------------------------: | ------------------------------------------------------------ |
+| **Project Promotions**          |                           18 |     ≈ 28.3 ADA |                ≈ 13 projects | Direct ecosystem support through weekly spotlight purchases  |
+| **Giveaways**                   |                           28 |     ≈ 34.5 ADA |              ≈ 26 recipients | Community rewards and raffles                                |
+| **✅ Total NFTweekend Activity** | **46 on-chain transactions** | **≈ 62.8 ADA** | **≈ 39 unique participants** | Executed as weekly initiatives to promote Cardano NFT creators and builders |
+
 
 
 ## 2025 KPI tables Q1 - Q2
@@ -27,8 +67,8 @@ The number in the X-Spaces are taken from internal X-Analytics.
 | [SubGoal Nr. 5] YouTube: retweets of a YT publication           |  **13** | 414 | 60 |  16  | 21 | 11 | 13 |            |
 | [SubGoal Nr. 6] Discord: projects profiles                      |  **60** | 47 |47 |    /51 |    /54   |   /57  |   /60 |    |
 
-From March going forward we are partnering with Promo Facie to increase engagement in Discord and on our Socials.  
-We also need to add a streamlined process to remind projects adding their profile to our profile section.
+From March going forward we were partnering with Promo Facie to increase engagement in Discord and on our Socials.  
+We also planned to add a streamlined process to remind projects adding their profile to our profile section.
 
 
 
